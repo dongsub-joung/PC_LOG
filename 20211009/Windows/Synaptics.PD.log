@@ -1,0 +1,60 @@
+
+//===========================================================================
+// Date: 2021-09-02 12:25:07
+// Finish install Synpd.inf driver log
+//===========================================================================
+Running SetUp.exe=NO
+CoInstallerDriverVersion=19.0.19.63
+CoInstallerFileName=SynTPCo35-02.dll
+InstalledDriverVersion=19.0.19.63
+InstallDir=C:\Windows\System32\DriverStore\FileRepository\synpd.inf_amd64_d8ecc73271d13e23
+Install SynTPEnhService
+Start SynTPEnhService Result = 1
+Done at 12:25:08
+
+//---------------------------------------------------------------------------
+// Date: 2021-10-06 02:31:40
+// Uninstall Synpd driver log
+//---------------------------------------------------------------------------
+DriverVersion=19.0.19.63
+UnInstallAppVersion=19.0.19.63
+C:\Users\test\AppData\Roaming\Synaptics\UnInstallSynTPResult.txt: 2 2 12 0
+The system cannot find the file specified.
+
+//===========================================================================
+// Date: 2021-10-06 18:43:45
+// Finish install Synpd.inf driver log
+//===========================================================================
+Running SetUp.exe=NO
+CoInstallerDriverVersion=19.0.19.63
+CoInstallerFileName=SynTPCo35-02.dll
+InstalledDriverVersion=19.0.19.63
+InstallDir=C:\Windows\System32\DriverStore\FileRepository\synpd.inf_amd64_d8ecc73271d13e23
+Install SynTPEnhService
+Start SynTPEnhService Result = 1
+Done at 18:43:45
+
+//---------------------------------------------------------------------------
+// Date: 2021-10-06 18:55:12
+// Uninstall Synpd driver log
+//---------------------------------------------------------------------------
+UnInstallAppVersion=19.0.19.63
+Update driver inf C:\Windows\inf\msmouse.inf for DeviceID = ACPI\VEN_SYN&DEV_018F, class = Mouse, type id = ACPI\
+RestoreMicrosoftDriver result = 1
+1. Succeed to Uninstall driver OemInf: oem10.inf, Class: Mouse, Provider = Synaptics, Version = 08/16/2017,19.0.19.63,  ErrorCode = 0x0(0)
+C:\Users\test\AppData\Roaming\Synaptics\UnInstallSynTPResult.txt: 0 2 0 0
+Exiting with GetLastError: 2 at stage: 0
+Done completely at 18:55:24
+
+//===========================================================================
+// Date: 2021-10-07 14:29:49
+// Finish install Synpd.inf driver log
+//===========================================================================
+Running SetUp.exe=NO
+CoInstallerDriverVersion=19.0.19.63
+CoInstallerFileName=SynTPCo35-02.dll
+InstalledDriverVersion=19.0.19.63
+InstallDir=C:\Windows\System32\DriverStore\FileRepository\synpd.inf_amd64_d8ecc73271d13e23
+Install SynTPEnhService
+Start SynTPEnhService Result = 1
+Done at 14:29:49

@@ -1,0 +1,13 @@
+
+//===========================================================================
+// Date: 2021-10-07 14:29:49
+// Finish install Synpd.inf driver log
+//===========================================================================
+Running SetUp.exe=NO
+CoInstallerDriverVersion=19.0.19.63
+CoInstallerFileName=SynTPCo35-02.dll
+InstalledDriverVersion=19.0.19.63
+InstallDir=C:\Windows\System32\DriverStore\FileRepository\synpd.inf_amd64_d8ecc73271d13e23
+Install SynTPEnhService
+Start SynTPEnhService Result = 1
+Done at 14:29:49

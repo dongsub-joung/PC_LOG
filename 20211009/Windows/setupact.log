@@ -1,0 +1,75 @@
+WdfCoInstaller: [09/02/2021 12:25.04.946] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [09/02/2021 12:25.05.306] ReadComponents:  WdfSection for Driver Service SynTP using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [09/02/2021 12:25.07.642] DIF_INSTALLDEVICE: Post-Processing
+
+[09/02/2021 12:25.08.520] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[09/02/2021 12:25.08.530] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[09/02/2021 12:25.08.545] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/02/2021 12:25.08.550] WudfCoInstaller: Final status: error(0) 작업을 완료했습니다.
+
+
+[09/02/2021 12:25.08.845] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+[09/27/2021 18:13.03.720] WudfCoInstaller: ReadWdfSection: Checking WdfSection [Basic_Install.Wdf]
+
+[09/27/2021 18:13.03.720] WudfCoInstaller: UMDF Service WpdFs is already installed - removing existing settings in preparation for setting new ones.
+
+[09/27/2021 18:13.03.720] WudfCoInstaller: Configuring UMDF Service WpdFs.
+
+[09/27/2021 18:13.03.730] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/27/2021 18:13.03.735] WudfCoInstaller: Final status: error(0) 작업을 완료했습니다.
+
+
+[09/27/2021 18:13.03.946] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdFs_01_11_00.Wdf.
+
+AudMig: Device Ids match - {2}.\\?\bthenum#{0000110b-0000-1000-8000-00805f9b34fb}_vid&0002054c_pid&0ce0#8&1e592aa4&0&cc988b5833c9_c00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\src/00010001 {2}.\\?\bthenum#{0000110b-0000-1000-8000-00805f9b34fb}_vid&0002054c_pid&0ce0#8&1e592aa4&0&cc988b5833c9_c00000000#{6994ad04-93ef-11d0-a3cc-00a0c9223196}\src/00010001
+AudMig: Migrated {a45c254e-df1c-4efd-8020-67d146a850e0},2 property at 2
+AudMig: Migrated {9637b4b9-11ee-4c35-b43c-7b2452c993cc},1 property at 8
+AudMig: Migrated {259abffc-50a7-47ce-af08-68c9a7d73366},12 property at 13
+AudMig: Migrating role and device state from SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{49CC227D-58B3-4B32-BEE7-F55F7924DBB4} to SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{F12E32B5-F97D-41AA-ADEA-2A9986A37EF9}
+[09/30/2021 11:32.55.940] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.NT.Wdf]
+
+[09/30/2021 11:32.55.940] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[09/30/2021 11:32.55.956] WudfCoInstaller: ImpersonationLevel set to 2
+
+[09/30/2021 11:32.55.956] WudfCoInstaller: KernelModeClientPolicy set to 1
+
+[09/30/2021 11:32.55.956] WudfCoInstaller: Final status: error(0) 작업을 완료했습니다.
+
+
+[09/30/2021 11:32.56.331] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+[10/03/2021 16:07.38.982] WudfCoInstaller: ReadWdfSection: Checking WdfSection [MTP.NT.Wdf]
+
+[10/03/2021 16:07.38.982] WudfCoInstaller: UMDF Service WpdMtpDriver is already installed - removing existing settings in preparation for setting new ones.
+
+[10/03/2021 16:07.38.982] WudfCoInstaller: Configuring UMDF Service WpdMtpDriver.
+
+[10/03/2021 16:07.38.990] WudfCoInstaller: ImpersonationLevel set to 2
+
+[10/03/2021 16:07.38.990] WudfCoInstaller: KernelModeClientPolicy set to 1
+
+[10/03/2021 16:07.38.990] WudfCoInstaller: Final status: error(0) The operation completed successfully.
+
+
+[10/03/2021 16:07.39.340] WudfCoInstaller: Created marker file C:\Windows\system32\drivers\Msft_User_WpdMtpDr_01_11_00.Wdf.
+
+WdfCoInstaller: [10/06/2021 18:43.42.618] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [10/06/2021 18:43.43.021] ReadComponents:  WdfSection for Driver Service SynTP using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [10/06/2021 18:43.45.104] DIF_INSTALLDEVICE: Post-Processing
+
+WdfCoInstaller: [10/07/2021 14:29.48.343] DIF_INSTALLDEVICE: Pre-Processing
+
+WdfCoInstaller: [10/07/2021 14:29.48.563] ReadComponents:  WdfSection for Driver Service SynTP using KMDF lib version Major 1, minor 11 
+
+WdfCoInstaller: [10/07/2021 14:29.49.479] DIF_INSTALLDEVICE: Post-Processing
+
