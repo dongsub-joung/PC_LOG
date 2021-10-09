@@ -1,0 +1,15 @@
+[1002/203516.753:ERROR:patch_reader.cc(334)] Patch contains invalid magic.
+[1002/203516.753:ERROR:zucchini_integration.cc(112)] Error reading patch header.
+[1002/203516.753:ERROR:archive_patch_helper.cc(106)] Failed to apply patch C:\Windows\TEMP\scoped_dir7860_1803433951\setup_patch.diff to file C:\Program Files\BraveSoftware\Brave-Browser\Application\94.1.30.86\Installer\setup.exe and generating file C:\Program Files (x86)\BraveSoftware\Update\Install\{667D590E-1CFD-48BF-87C0-8EB40D1A48DF}\CR_81C9D.tmp\setup.exe using Zucchini. err=4
+[1002/203517.510:ERROR:patch_reader.cc(334)] Patch contains invalid magic.
+[1002/203517.510:ERROR:zucchini_integration.cc(112)] Error reading patch header.
+[1002/203517.510:ERROR:archive_patch_helper.cc(106)] Failed to apply patch C:\Program Files\BraveSoftware\Brave-Browser\Temp\source1844_1339983208\chrome_patch.diff to file C:\Program Files\BraveSoftware\Brave-Browser\Application\94.1.30.86\Installer\chrome.7z and generating file C:\Program Files\BraveSoftware\Brave-Browser\Temp\source1844_1339983208\chrome.7z using Zucchini. err=4
+[1002/204134.690:VERBOSE1:setup_main.cc(1449)] Command Line: "C:\Program Files\BraveSoftware\Brave-Browser\Application\94.1.30.87\Installer\setup.exe" --delete-old-versions --system-level --verbose-logging
+[1002/204134.690:VERBOSE1:setup_main.cc(1455)] system install is 1
+[1002/204134.690:VERBOSE1:install_util.cc(216)] Existing Chrome version found: 94.1.30.87
+[1002/204134.690:VERBOSE1:installer_state.cc(87)] Install Chrome
+[1002/204134.743:VERBOSE1:install_util.cc(247)] Windows NT 10.0.19041
+[1002/204134.743:VERBOSE1:install_util.cc(216)] Existing Chrome version found: 94.1.30.87
+[1002/204134.743:VERBOSE1:installer_state.cc(87)] Install Chrome
+[1002/204149.873:WARNING:delete_old_versions.cc(93)] Attempting to delete stray directory C:\Program Files\BraveSoftware\Brave-Browser\Application\94.1.30.86
+[1002/204150.036:VERBOSE1:setup_main.cc(498)] Successfully deleted all old files from --delete-old-versions process.
