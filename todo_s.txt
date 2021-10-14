@@ -1,0 +1,4 @@
+- Region change of mirror
+userPrefs.browser.search.region 	KR 
+- Recovery original files  
+on "C:\Backup\Backup"
