@@ -2,4 +2,6 @@
 userPrefs.browser.search.region 	KR 
 - Recovery original files  
 on "C:\Backup\Backup"
-- Trace DHCP log 
+- Trace DHCP log
+
+AppDate\Local\pip  
