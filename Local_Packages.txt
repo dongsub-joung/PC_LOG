@@ -1,0 +1,103 @@
+
+
+    Directory: C:\Users\DongSub-Joun\AppData\Local\Packages
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        10/18/2021  12:26 PM                1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy                   
+d-----        10/20/2021   3:11 PM                19965MATTHAFNER.WIFIANALYZER_gs5k5vmxr2ste                           
+d-----        10/18/2021  11:23 AM                ActiveSync                                                           
+d-----        10/18/2021  12:26 PM                c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy                   
+d-----        10/19/2021   7:06 PM                CanonicalGroupLimited.Ubuntu20.04onWindows_79rhkp1fndgsc             
+d-----        10/18/2021   1:52 PM                cr.sb.cdmf5200eafd3ad904629cbb0f87a78a3c7211081fe                    
+d-----        10/18/2021  12:26 PM                E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy                   
+d-----        10/18/2021  12:26 PM                F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy                   
+d-----        10/18/2021  11:21 AM                Microsoft.549981C3F5F10_8wekyb3d8bbwe                                
+d-----        10/18/2021  11:21 AM                Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy                             
+d-----        10/18/2021  12:26 PM                Microsoft.AccountsControl_cw5n1h2txyewy                              
+d-----        10/18/2021  11:21 AM                Microsoft.Advertising.Xaml_8wekyb3d8bbwe                             
+d-----        10/18/2021  12:26 PM                Microsoft.AsyncTextService_8wekyb3d8bbwe                             
+d-----        10/18/2021  12:27 PM                Microsoft.BingWeather_8wekyb3d8bbwe                                  
+d-----        10/18/2021  12:26 PM                Microsoft.BioEnrollment_cw5n1h2txyewy                                
+d-----        10/18/2021  12:26 PM                Microsoft.CredDialogHost_cw5n1h2txyewy                               
+d-----        10/18/2021  11:21 AM                Microsoft.DesktopAppInstaller_8wekyb3d8bbwe                          
+d-----        10/18/2021  12:26 PM                Microsoft.ECApp_8wekyb3d8bbwe                                        
+d-----        10/18/2021  12:27 PM                Microsoft.GetHelp_8wekyb3d8bbwe                                      
+d-----        10/18/2021  12:27 PM                Microsoft.Getstarted_8wekyb3d8bbwe                                   
+d-----        10/18/2021  12:27 PM                Microsoft.HEIFImageExtension_8wekyb3d8bbwe                           
+d-----        10/18/2021  12:26 PM                Microsoft.LockApp_cw5n1h2txyewy                                      
+d-----        10/18/2021  12:27 PM                Microsoft.Microsoft3DViewer_8wekyb3d8bbwe                            
+d-----        10/18/2021  12:26 PM                Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe                  
+d-----        10/18/2021  11:21 AM                Microsoft.MicrosoftEdge_8wekyb3d8bbwe                                
+d-----        10/18/2021  12:27 PM                Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe                           
+d-----        10/18/2021  12:27 PM                Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe                 
+d-----        10/18/2021  12:27 PM                Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe                         
+d-----        10/18/2021  12:27 PM                Microsoft.MixedReality.Portal_8wekyb3d8bbwe                          
+d-----        10/18/2021  12:27 PM                Microsoft.MSPaint_8wekyb3d8bbwe                                      
+d-----        10/18/2021  11:21 AM                Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe                     
+d-----        10/18/2021  11:21 AM                Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe                     
+d-----        10/18/2021  11:21 AM                Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe                       
+d-----        10/18/2021  11:21 AM                Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe                       
+d-----        10/18/2021  12:27 PM                Microsoft.Office.OneNote_8wekyb3d8bbwe                               
+d-----        10/18/2021  12:27 PM                Microsoft.People_8wekyb3d8bbwe                                       
+d-----        10/18/2021  12:27 PM                Microsoft.ScreenSketch_8wekyb3d8bbwe                                 
+d-----        10/20/2021   3:11 PM                Microsoft.Services.Store.Engagement_8wekyb3d8bbwe                    
+d-----        10/18/2021  12:26 PM                Microsoft.SkypeApp_kzf8qxf38zg5c                                     
+d-----        10/18/2021  12:27 PM                Microsoft.StorePurchaseApp_8wekyb3d8bbwe                             
+d-----        10/18/2021  12:26 PM                Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe                                  
+d-----        10/18/2021  12:27 PM                Microsoft.UI.Xaml.2.3_8wekyb3d8bbwe                                  
+d-----        10/18/2021  11:21 AM                Microsoft.UI.Xaml.2.4_8wekyb3d8bbwe                                  
+d-----        10/18/2021  11:21 AM                Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe                     
+d-----        10/18/2021  11:21 AM                Microsoft.VCLibs.140.00_8wekyb3d8bbwe                                
+d-----        10/18/2021  12:26 PM                Microsoft.VP9VideoExtensions_8wekyb3d8bbwe                           
+d-----        10/18/2021  12:26 PM                Microsoft.Wallet_8wekyb3d8bbwe                                       
+d-----        10/18/2021  12:26 PM                Microsoft.WebMediaExtensions_8wekyb3d8bbwe                           
+d-----        10/18/2021  12:26 PM                Microsoft.WebpImageExtension_8wekyb3d8bbwe                           
+d-----        10/18/2021  12:26 PM                Microsoft.Win32WebViewHost_cw5n1h2txyewy                             
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy                        
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy                
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.CallingShellApp_cw5n1h2txyewy                      
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.CapturePicker_cw5n1h2txyewy                        
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy                  
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy               
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe                   
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy             
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy            
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.ParentalControls_cw5n1h2txyewy                     
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy                 
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.Photos_8wekyb3d8bbwe                               
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy            
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.Search_cw5n1h2txyewy                               
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.SecHealthUI_cw5n1h2txyewy                          
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy              
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy                  
+d-----        10/18/2021  11:21 AM                Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy              
+d-----        10/18/2021  12:26 PM                Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy                      
+d-----        10/18/2021  12:26 PM                Microsoft.WindowsAlarms_8wekyb3d8bbwe                                
+d-----        10/18/2021  12:27 PM                Microsoft.WindowsCalculator_8wekyb3d8bbwe                            
+d-----        10/18/2021  11:21 AM                Microsoft.WindowsCamera_8wekyb3d8bbwe                                
+d-----        10/18/2021  11:21 AM                microsoft.windowscommunicationsapps_8wekyb3d8bbwe                    
+d-----        10/21/2021  12:01 AM                Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe                           
+d-----        10/18/2021  12:27 PM                Microsoft.WindowsMaps_8wekyb3d8bbwe                                  
+d-----        10/18/2021  12:27 PM                Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe                         
+d-----        10/18/2021  11:21 AM                Microsoft.WindowsStore_8wekyb3d8bbwe                                 
+d-----        10/18/2021  12:27 PM                Microsoft.Xbox.TCUI_8wekyb3d8bbwe                                    
+d-----        10/18/2021  12:27 PM                Microsoft.XboxApp_8wekyb3d8bbwe                                      
+d-----        10/18/2021  12:26 PM                Microsoft.XboxGameCallableUI_cw5n1h2txyewy                           
+d-----        10/18/2021  12:26 PM                Microsoft.XboxGameOverlay_8wekyb3d8bbwe                              
+d-----        10/18/2021  12:26 PM                Microsoft.XboxGamingOverlay_8wekyb3d8bbwe                            
+d-----        10/18/2021  11:21 AM                Microsoft.XboxIdentityProvider_8wekyb3d8bbwe                         
+d-----        10/18/2021  12:26 PM                Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe                      
+d-----        10/18/2021  12:26 PM                Microsoft.YourPhone_8wekyb3d8bbwe                                    
+d-----        10/18/2021  12:26 PM                Microsoft.ZuneMusic_8wekyb3d8bbwe                                    
+d-----        10/18/2021  12:26 PM                Microsoft.ZuneVideo_8wekyb3d8bbwe                                    
+d-----        10/18/2021  11:21 AM                MicrosoftWindows.Client.CBS_cw5n1h2txyewy                            
+d-----        10/18/2021  11:21 AM                MicrosoftWindows.UndockedDevKit_cw5n1h2txyewy                        
+d-----        10/18/2021  12:26 PM                NcsiUwpApp_8wekyb3d8bbwe                                             
+d-----        10/18/2021  12:26 PM                Windows.CBSPreview_cw5n1h2txyewy                                     
+d-----        10/18/2021  11:21 AM                windows.immersivecontrolpanel_cw5n1h2txyewy                          
+d-----        10/18/2021  12:26 PM                Windows.PrintDialog_cw5n1h2txyewy                                    
+d-----        10/18/2021  11:21 AM                windows_ie_ac_001                                                    
+
+
