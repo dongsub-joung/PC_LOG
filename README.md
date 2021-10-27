@@ -1,5 +1,6 @@
 # PC_LOG
 
+![Capture](https://user-images.githubusercontent.com/59364300/139027485-fee185fb-c28e-44ae-b5ad-cdbe9fcc664c.PNG)
 
 Host Name:                 DESKTOP-H9EJ7RL
 OS Name:                   Microsoft Windows 10 Pro
