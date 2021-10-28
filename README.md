@@ -2,6 +2,10 @@
 
 ![Capture](https://user-images.githubusercontent.com/59364300/139027485-fee185fb-c28e-44ae-b5ad-cdbe9fcc664c.PNG)
 
+I'm not psychiatric disorder :3
+![his](https://user-images.githubusercontent.com/59364300/139274032-97f97e4a-c186-41c9-837e-8b29a61cae01.PNG)
+https://github.com/dongsub-joung/PC_LOG/blob/master/history.txt
+
 Host Name:                 DESKTOP-H9EJ7RL
 OS Name:                   Microsoft Windows 10 Pro
 OS Version:                10.0.19043 N/A Build 19043
