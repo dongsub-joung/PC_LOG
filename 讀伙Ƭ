@@ -1,0 +1,23 @@
+﻿[2021-10-30 00:13:12.508] [info   ] [MailShield ] [ 2860: 4264] Started, Log=0, AntiSpam=0
+[2021-10-30 00:13:12.508] [info   ] [MailShield ] [ 2860: 4264] Build 21.9.2493
+[2021-10-30 00:13:12.508] [info   ] [MailShield ] [ 2860: 4264] MaxConnections=100
+[2021-10-30 00:13:12.508] [info   ] [MailShield ] [ 2860: 4264] Starting listener
+[2021-10-30 00:13:12.524] [info   ] [MailShield ] [ 2860: 4284] Listener started
+[2021-10-30 00:13:12.614] [info   ] [MailShield ] [ 2860: 4264] IPv6connectivity: 0
+[2021-10-30 00:13:12.614] [info   ] [MailShield ] [ 2860: 4264] AutoRedirect=1
+[2021-10-30 00:13:12.614] [info   ] [MailShield ] [ 2860: 4264] IgnoreLocalhost=1
+[2021-10-30 00:13:12.630] [info   ] [MailShield ] [ 2860: 4264] ScanSSL=1
+[2021-10-30 00:13:12.630] [info   ] [MailShield ] [ 2860: 4264] POP Start: 1
+[2021-10-30 00:13:12.661] [info   ] [MailShield ] [ 2860: 4264] SMTP Start: 1
+[2021-10-30 00:13:12.861] [info   ] [MailShield ] [ 2860: 4264] IMAP Start: 1
+[2021-10-30 00:13:12.881] [info   ] [MailShield ] [ 2860: 4264] NNTP Start: 1
+[2021-10-30 00:13:12.909] [info   ] [MailShield ] [ 2860: 4264] POPs Start: 1
+[2021-10-30 00:13:12.919] [info   ] [MailShield ] [ 2860: 4264] SMTPs Start: 1
+[2021-10-30 00:13:12.921] [info   ] [MailShield ] [ 2860: 4264] IMAPs Start: 1
+[2021-10-30 00:13:12.929] [info   ] [MailShield ] [ 2860: 4264] NNTPs Start: 1
+[2021-10-30 00:13:35.024] [info   ] [MailShield ] [ 2860: 3476] ServiceStop
+[2021-10-30 00:13:35.024] [info   ] [MailShield ] [ 2860: 4264] Stopping threads
+[2021-10-30 00:13:35.024] [info   ] [MailShield ] [ 2860: 4264] Threads stopped
+[2021-10-30 00:13:35.040] [info   ] [MailShield ] [ 2860: 4264] Stopping listener
+[2021-10-30 00:13:35.040] [info   ] [MailShield ] [ 2860: 4284] Listener stopped
+[2021-10-30 00:13:35.040] [info   ] [MailShield ] [ 2860: 4264] Stopped
