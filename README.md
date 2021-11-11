@@ -1,5 +1,7 @@
 # PC_LOG
 
+![local](https://user-images.githubusercontent.com/59364300/141277037-62cc9a87-ed2a-47e3-a418-034e2fa76365.PNG)
+
 ![Capture](https://user-images.githubusercontent.com/59364300/139027485-fee185fb-c28e-44ae-b5ad-cdbe9fcc664c.PNG)
 
 I'm not psychiatric disorder :3
