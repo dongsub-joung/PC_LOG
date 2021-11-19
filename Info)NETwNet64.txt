@@ -1,0 +1,45 @@
+Log Name:      System
+Source:        NETwNe64
+Date:          11/18/2021 9:00:29 PM
+Event ID:      8000
+Task Category: None
+Level:         Information
+Keywords:      Classic
+User:          N/A
+Computer:      DESKTOP-H9EJ7RL
+Description:
+The description for Event ID 8000 from source NETwNe64 cannot be found. Either the component that raises this event is not installed on your local computer or the installation is corrupted. You can install or repair the component on the local computer.
+
+If the event originated on another computer, the display information had to be saved with the event.
+
+The following information was included with the event: 
+
+\Device\NDMP4
+Intel(R) Centrino(R) Wireless-N 2200
+
+The specified resource type cannot be found in the image file
+
+Event Xml:
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="NETwNe64" />
+    <EventID Qualifiers="24576">8000</EventID>
+    <Version>0</Version>
+    <Level>4</Level>
+    <Task>0</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x80000000000000</Keywords>
+    <TimeCreated SystemTime="2021-11-18T12:00:29.9224353Z" />
+    <EventRecordID>64316</EventRecordID>
+    <Correlation />
+    <Execution ProcessID="4" ThreadID="2756" />
+    <Channel>System</Channel>
+    <Computer>DESKTOP-H9EJ7RL</Computer>
+    <Security />
+  </System>
+  <EventData>
+    <Data>\Device\NDMP4</Data>
+    <Data>Intel(R) Centrino(R) Wireless-N 2200</Data>
+    <Binary>000008000200380000000000401F00600000000000000000000000000000000000000000000000005744525619020000</Binary>
+  </EventData>
+</Event>
