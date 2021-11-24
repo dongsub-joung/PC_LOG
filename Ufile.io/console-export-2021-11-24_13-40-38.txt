@@ -1,0 +1,11 @@
+Some cookies are misusing the recommended “SameSite“ attribute 4
+Loading failed for the <script> with source “https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js”. ufile.io:75:1
+Loading failed for the <script> with source “https://www.google-analytics.com/analytics.js”. ufile.io:1:1
+0 homepage.js:125:17
+Array [ File ]
+homepage.js:126:17
+onmozfullscreenchange is deprecated. ufile.io
+onmozfullscreenerror is deprecated. ufile.io
+Ignoring get or set of property that has [LenientThis] because the “this” object is incorrect. ufile.io
+Array [ File ]
+undefined
