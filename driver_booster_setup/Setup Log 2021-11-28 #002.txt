@@ -1,0 +1,1069 @@
+﻿2021-11-28 15:42:12.317   Log opened. (Time zone: UTC+09:00)
+2021-11-28 15:42:12.317   Setup version: Inno Setup version 5.5.9 (u)
+2021-11-28 15:42:12.317   Original Setup EXE: C:\Users\DongSub_Joung\Downloads\driver_booster_setup.exe
+2021-11-28 15:42:12.317   Setup command line: /SL5="$B03F4,26073627,139264,C:\Users\DongSub_Joung\Downloads\driver_booster_setup.exe" /sp- /verysilent /Installer /norestart /DIR="C:\Program Files (x86)\IObit\Driver Booster" /Installer-DeskIcon /Installer-TaskIcon
+2021-11-28 15:42:12.317   Windows version: 10.0.19043  (NT platform: Yes)
+2021-11-28 15:42:12.317   64-bit Windows: Yes
+2021-11-28 15:42:12.317   Processor architecture: x64
+2021-11-28 15:42:12.317   User privileges: Administrative
+2021-11-28 15:42:12.323   64-bit install mode: No
+2021-11-28 15:42:12.339   Created temporary directory: C:\Users\DONGSU~2\AppData\Local\Temp\is-FMLBG.tmp
+2021-11-28 15:42:12.339   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-FMLBG.tmp\RdZone.dll
+2021-11-28 15:42:15.324   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-FMLBG.tmp\Inno_English.lng
+2021-11-28 15:42:18.141   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-FMLBG.tmp\Inno_English.lng
+2021-11-28 15:42:21.153   GetSetupDir 2
+2021-11-28 15:42:21.153   Result : C:\Program Files (x86)\IObit\Driver Booster
+2021-11-28 15:42:21.169   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-FMLBG.tmp\Inno_English.lng
+2021-11-28 15:42:23.894   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-FMLBG.tmp\db_xp_support.bmp
+2021-11-28 15:42:23.923   Starting the installation process.
+2021-11-28 15:42:23.954   Creating directory: C:\Program Files (x86)\IObit
+2021-11-28 15:42:23.954   Creating directory: C:\Program Files (x86)\IObit\Driver Booster
+2021-11-28 15:42:23.954   Directory for uninstall files: C:\Program Files (x86)\IObit\Driver Booster\9.0.1
+2021-11-28 15:42:23.954   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1
+2021-11-28 15:42:23.954   Creating new uninstall log: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\unins000.dat
+2021-11-28 15:42:23.954   -- File entry --
+2021-11-28 15:42:23.954   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\unins000.exe
+2021-11-28 15:42:23.954   Time stamp of our file: 2021-11-28 15:42:12.069
+2021-11-28 15:42:23.954   Installing the file.
+2021-11-28 15:42:23.970   Uninstaller requires administrator: Yes
+2021-11-28 15:42:23.970   Successfully installed the file.
+2021-11-28 15:42:23.970   -- File entry --
+2021-11-28 15:42:23.970   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\EULA.rtf
+2021-11-28 15:42:23.970   Time stamp of our file: 2021-05-06 10:48:34.000
+2021-11-28 15:42:23.970   Installing the file.
+2021-11-28 15:42:24.386   Successfully installed the file.
+2021-11-28 15:42:24.386   -- File entry --
+2021-11-28 15:42:24.386   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DriverBooster.exe
+2021-11-28 15:42:24.386   Time stamp of our file: 2021-10-22 11:08:12.000
+2021-11-28 15:42:24.386   Installing the file.
+2021-11-28 15:42:24.756   Successfully installed the file.
+2021-11-28 15:42:24.756   -- File entry --
+2021-11-28 15:42:24.756   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Scanner.dll
+2021-11-28 15:42:24.756   Time stamp of our file: 2021-09-28 13:33:02.000
+2021-11-28 15:42:24.756   Installing the file.
+2021-11-28 15:42:24.772   Successfully installed the file.
+2021-11-28 15:42:24.788   -- File entry --
+2021-11-28 15:42:24.788   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Register.dll
+2021-11-28 15:42:24.788   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:24.788   Installing the file.
+2021-11-28 15:42:24.825   Successfully installed the file.
+2021-11-28 15:42:24.825   -- File entry --
+2021-11-28 15:42:24.825   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\AutoUpdate.exe
+2021-11-28 15:42:24.825   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:24.825   Installing the file.
+2021-11-28 15:42:24.903   Successfully installed the file.
+2021-11-28 15:42:24.903   -- File entry --
+2021-11-28 15:42:24.903   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\FaultFixes.exe
+2021-11-28 15:42:24.903   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:24.903   Installing the file.
+2021-11-28 15:42:24.941   Successfully installed the file.
+2021-11-28 15:42:24.941   -- File entry --
+2021-11-28 15:42:24.941   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\DbzInst.dll
+2021-11-28 15:42:24.941   Time stamp of our file: 2021-09-28 13:46:52.000
+2021-11-28 15:42:24.941   Installing the file.
+2021-11-28 15:42:24.941   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall
+2021-11-28 15:42:24.957   Successfully installed the file.
+2021-11-28 15:42:24.957   -- File entry --
+2021-11-28 15:42:24.957   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\DpInstX32.exe
+2021-11-28 15:42:24.957   Time stamp of our file: 2021-09-28 13:46:52.000
+2021-11-28 15:42:24.957   Installing the file.
+2021-11-28 15:42:25.004   Successfully installed the file.
+2021-11-28 15:42:25.004   -- File entry --
+2021-11-28 15:42:25.004   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\DpInstX64.exe
+2021-11-28 15:42:25.004   Time stamp of our file: 2021-09-28 13:46:52.000
+2021-11-28 15:42:25.004   Installing the file.
+2021-11-28 15:42:25.088   Successfully installed the file.
+2021-11-28 15:42:25.088   -- File entry --
+2021-11-28 15:42:25.088   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DriverUpdate.exe
+2021-11-28 15:42:25.088   Time stamp of our file: 2021-09-15 11:26:02.000
+2021-11-28 15:42:25.088   Installing the file.
+2021-11-28 15:42:25.142   Successfully installed the file.
+2021-11-28 15:42:25.142   -- File entry --
+2021-11-28 15:42:25.142   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ScanWinUpd.exe
+2021-11-28 15:42:25.142   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.142   Installing the file.
+2021-11-28 15:42:25.157   Successfully installed the file.
+2021-11-28 15:42:25.157   -- File entry --
+2021-11-28 15:42:25.157   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Scheduler.exe
+2021-11-28 15:42:25.157   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.157   Installing the file.
+2021-11-28 15:42:25.157   Successfully installed the file.
+2021-11-28 15:42:25.157   -- File entry --
+2021-11-28 15:42:25.157   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\SetupHlp.exe
+2021-11-28 15:42:25.157   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.157   Installing the file.
+2021-11-28 15:42:25.226   Successfully installed the file.
+2021-11-28 15:42:25.226   -- File entry --
+2021-11-28 15:42:25.226   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ScanDisp.exe
+2021-11-28 15:42:25.226   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.226   Installing the file.
+2021-11-28 15:42:25.242   Successfully installed the file.
+2021-11-28 15:42:25.242   -- File entry --
+2021-11-28 15:42:25.242   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\InstStat.exe
+2021-11-28 15:42:25.242   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.242   Installing the file.
+2021-11-28 15:42:25.289   Successfully installed the file.
+2021-11-28 15:42:25.289   -- File entry --
+2021-11-28 15:42:25.289   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Backup.exe
+2021-11-28 15:42:25.289   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.289   Installing the file.
+2021-11-28 15:42:25.327   Successfully installed the file.
+2021-11-28 15:42:25.327   -- File entry --
+2021-11-28 15:42:25.327   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ChangeIcon.exe
+2021-11-28 15:42:25.342   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.342   Installing the file.
+2021-11-28 15:42:25.342   Successfully installed the file.
+2021-11-28 15:42:25.342   -- File entry --
+2021-11-28 15:42:25.342   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\AUpdate.exe
+2021-11-28 15:42:25.342   Time stamp of our file: 2021-09-15 11:25:50.000
+2021-11-28 15:42:25.342   Installing the file.
+2021-11-28 15:42:25.358   Successfully installed the file.
+2021-11-28 15:42:25.358   -- File entry --
+2021-11-28 15:42:25.358   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DBDownloader.exe
+2021-11-28 15:42:25.358   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.358   Installing the file.
+2021-11-28 15:42:25.405   Successfully installed the file.
+2021-11-28 15:42:25.405   -- File entry --
+2021-11-28 15:42:25.405   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\NoteIcon.exe
+2021-11-28 15:42:25.405   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.405   Installing the file.
+2021-11-28 15:42:25.420   Successfully installed the file.
+2021-11-28 15:42:25.420   -- File entry --
+2021-11-28 15:42:25.420   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Bugreport.exe
+2021-11-28 15:42:25.420   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.420   Installing the file.
+2021-11-28 15:42:25.474   Successfully installed the file.
+2021-11-28 15:42:25.474   -- File entry --
+2021-11-28 15:42:25.474   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\AutoNts.exe
+2021-11-28 15:42:25.474   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.474   Installing the file.
+2021-11-28 15:42:25.505   Successfully installed the file.
+2021-11-28 15:42:25.505   -- File entry --
+2021-11-28 15:42:25.505   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\CareScan.exe
+2021-11-28 15:42:25.521   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.521   Installing the file.
+2021-11-28 15:42:25.690   Successfully installed the file.
+2021-11-28 15:42:25.690   -- File entry --
+2021-11-28 15:42:25.690   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\RttHlp.exe
+2021-11-28 15:42:25.690   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.690   Installing the file.
+2021-11-28 15:42:25.690   Successfully installed the file.
+2021-11-28 15:42:25.690   -- File entry --
+2021-11-28 15:42:25.690   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost.exe
+2021-11-28 15:42:25.690   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.690   Installing the file.
+2021-11-28 15:42:25.759   Successfully installed the file.
+2021-11-28 15:42:25.759   -- File entry --
+2021-11-28 15:42:25.759   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Passenger.exe
+2021-11-28 15:42:25.759   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.759   Installing the file.
+2021-11-28 15:42:25.806   Successfully installed the file.
+2021-11-28 15:42:25.806   -- File entry --
+2021-11-28 15:42:25.806   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Manta.exe
+2021-11-28 15:42:25.806   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.806   Installing the file.
+2021-11-28 15:42:25.828   Successfully installed the file.
+2021-11-28 15:42:25.828   -- File entry --
+2021-11-28 15:42:25.828   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\rma.exe
+2021-11-28 15:42:25.828   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:25.828   Installing the file.
+2021-11-28 15:42:25.859   Successfully installed the file.
+2021-11-28 15:42:25.859   -- File entry --
+2021-11-28 15:42:25.859   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\OfflineUpdater.exe
+2021-11-28 15:42:25.859   Time stamp of our file: 2021-10-21 17:38:12.000
+2021-11-28 15:42:25.859   Installing the file.
+2021-11-28 15:42:25.975   Successfully installed the file.
+2021-11-28 15:42:25.975   -- File entry --
+2021-11-28 15:42:25.975   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Cmpnt.dll
+2021-11-28 15:42:25.975   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.975   Installing the file.
+2021-11-28 15:42:25.991   Successfully installed the file.
+2021-11-28 15:42:25.991   -- File entry --
+2021-11-28 15:42:25.991   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\sqlite3.dll
+2021-11-28 15:42:25.991   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:25.991   Installing the file.
+2021-11-28 15:42:26.060   Successfully installed the file.
+2021-11-28 15:42:26.060   -- File entry --
+2021-11-28 15:42:26.075   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\SysRest.dll
+2021-11-28 15:42:26.075   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.075   Installing the file.
+2021-11-28 15:42:26.075   Successfully installed the file.
+2021-11-28 15:42:26.075   -- File entry --
+2021-11-28 15:42:26.075   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DataState.dll
+2021-11-28 15:42:26.075   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.075   Installing the file.
+2021-11-28 15:42:26.091   Successfully installed the file.
+2021-11-28 15:42:26.091   -- File entry --
+2021-11-28 15:42:26.091   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\WebRes.dll
+2021-11-28 15:42:26.091   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.091   Installing the file.
+2021-11-28 15:42:26.144   Successfully installed the file.
+2021-11-28 15:42:26.144   -- File entry --
+2021-11-28 15:42:26.144   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\MsgBoxEx.dll
+2021-11-28 15:42:26.144   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:26.144   Installing the file.
+2021-11-28 15:42:26.191   Successfully installed the file.
+2021-11-28 15:42:26.191   -- File entry --
+2021-11-28 15:42:26.191   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Zip.dll
+2021-11-28 15:42:26.191   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.191   Installing the file.
+2021-11-28 15:42:26.207   Successfully installed the file.
+2021-11-28 15:42:26.207   -- File entry --
+2021-11-28 15:42:26.207   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\7z.dll
+2021-11-28 15:42:26.207   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.207   Installing the file.
+2021-11-28 15:42:26.276   Successfully installed the file.
+2021-11-28 15:42:26.276   -- File entry --
+2021-11-28 15:42:26.276   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\libssl-1_1.dll
+2021-11-28 15:42:26.276   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.276   Installing the file.
+2021-11-28 15:42:26.292   Successfully installed the file.
+2021-11-28 15:42:26.292   -- File entry --
+2021-11-28 15:42:26.292   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\libcrypto-1_1.dll
+2021-11-28 15:42:26.292   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.292   Installing the file.
+2021-11-28 15:42:26.407   Successfully installed the file.
+2021-11-28 15:42:26.407   -- File entry --
+2021-11-28 15:42:26.407   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\PowerMgr.dll
+2021-11-28 15:42:26.407   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.407   Installing the file.
+2021-11-28 15:42:26.407   Successfully installed the file.
+2021-11-28 15:42:26.407   -- File entry --
+2021-11-28 15:42:26.407   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Focus.dll
+2021-11-28 15:42:26.407   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.407   Installing the file.
+2021-11-28 15:42:26.423   Successfully installed the file.
+2021-11-28 15:42:26.423   -- File entry --
+2021-11-28 15:42:26.423   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ProductNews2.dll
+2021-11-28 15:42:26.423   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:26.423   Installing the file.
+2021-11-28 15:42:26.508   Successfully installed the file.
+2021-11-28 15:42:26.508   -- File entry --
+2021-11-28 15:42:26.508   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\cbutton.dll
+2021-11-28 15:42:26.508   Time stamp of our file: 2021-10-21 17:37:56.000
+2021-11-28 15:42:26.508   Installing the file.
+2021-11-28 15:42:26.592   Successfully installed the file.
+2021-11-28 15:42:26.592   -- File entry --
+2021-11-28 15:42:26.592   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DetectWave.dll
+2021-11-28 15:42:26.592   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.592   Installing the file.
+2021-11-28 15:42:26.608   Successfully installed the file.
+2021-11-28 15:42:26.608   -- File entry --
+2021-11-28 15:42:26.608   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Wave.mp3
+2021-11-28 15:42:26.608   Time stamp of our file: 2019-11-11 17:17:20.000
+2021-11-28 15:42:26.608   Installing the file.
+2021-11-28 15:42:26.608   Successfully installed the file.
+2021-11-28 15:42:26.608   -- File entry --
+2021-11-28 15:42:26.608   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\rtl120.bpl
+2021-11-28 15:42:26.608   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.608   Installing the file.
+2021-11-28 15:42:26.661   Successfully installed the file.
+2021-11-28 15:42:26.661   -- File entry --
+2021-11-28 15:42:26.661   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\vcl120.bpl
+2021-11-28 15:42:26.661   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.661   Installing the file.
+2021-11-28 15:42:26.746   Successfully installed the file.
+2021-11-28 15:42:26.746   -- File entry --
+2021-11-28 15:42:26.746   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\vclx120.bpl
+2021-11-28 15:42:26.762   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.762   Installing the file.
+2021-11-28 15:42:26.762   Successfully installed the file.
+2021-11-28 15:42:26.762   -- File entry --
+2021-11-28 15:42:26.762   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\madBasic_.bpl
+2021-11-28 15:42:26.762   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.762   Installing the file.
+2021-11-28 15:42:26.777   Successfully installed the file.
+2021-11-28 15:42:26.777   -- File entry --
+2021-11-28 15:42:26.777   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\madDisAsm_.bpl
+2021-11-28 15:42:26.777   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.777   Installing the file.
+2021-11-28 15:42:26.793   Successfully installed the file.
+2021-11-28 15:42:26.793   -- File entry --
+2021-11-28 15:42:26.793   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\madExcept_.bpl
+2021-11-28 15:42:26.793   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.793   Installing the file.
+2021-11-28 15:42:26.809   Successfully installed the file.
+2021-11-28 15:42:26.809   -- File entry --
+2021-11-28 15:42:26.809   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst\x86\dpinst.exe
+2021-11-28 15:42:26.809   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.809   Installing the file.
+2021-11-28 15:42:26.809   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst
+2021-11-28 15:42:26.809   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst\x86
+2021-11-28 15:42:26.846   Successfully installed the file.
+2021-11-28 15:42:26.846   -- File entry --
+2021-11-28 15:42:26.846   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst\x64\dpinst.exe
+2021-11-28 15:42:26.846   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:26.846   Installing the file.
+2021-11-28 15:42:26.846   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst\x64
+2021-11-28 15:42:26.878   Successfully installed the file.
+2021-11-28 15:42:26.878   -- File entry --
+2021-11-28 15:42:26.878   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst\x86\dbinst.exe
+2021-11-28 15:42:26.878   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:26.878   Installing the file.
+2021-11-28 15:42:26.978   Successfully installed the file.
+2021-11-28 15:42:26.978   -- File entry --
+2021-11-28 15:42:26.978   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DpInst\x64\dbinst.exe
+2021-11-28 15:42:26.978   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:26.978   Installing the file.
+2021-11-28 15:42:27.163   Successfully installed the file.
+2021-11-28 15:42:27.163   -- File entry --
+2021-11-28 15:42:27.163   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\DIFxAPI32.dll
+2021-11-28 15:42:27.163   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.163   Installing the file.
+2021-11-28 15:42:27.178   Successfully installed the file.
+2021-11-28 15:42:27.178   -- File entry --
+2021-11-28 15:42:27.178   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\DIFxAPI64.dll
+2021-11-28 15:42:27.178   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.178   Installing the file.
+2021-11-28 15:42:27.194   Successfully installed the file.
+2021-11-28 15:42:27.194   -- File entry --
+2021-11-28 15:42:27.194   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\SetVolume32.dll
+2021-11-28 15:42:27.194   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.194   Installing the file.
+2021-11-28 15:42:27.210   Successfully installed the file.
+2021-11-28 15:42:27.210   -- File entry --
+2021-11-28 15:42:27.210   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\DrvInstall\SetVolume64.dll
+2021-11-28 15:42:27.210   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.210   Installing the file.
+2021-11-28 15:42:27.225   Successfully installed the file.
+2021-11-28 15:42:27.225   -- File entry --
+2021-11-28 15:42:27.225   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\HWiNFO\HWiNFO32.dll
+2021-11-28 15:42:27.225   Time stamp of our file: 2021-09-10 10:32:42.000
+2021-11-28 15:42:27.225   Installing the file.
+2021-11-28 15:42:27.225   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\HWiNFO
+2021-11-28 15:42:27.247   Successfully installed the file.
+2021-11-28 15:42:27.247   -- File entry --
+2021-11-28 15:42:27.247   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\HWiNFO\HWiNFO.exe
+2021-11-28 15:42:27.247   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.247   Installing the file.
+2021-11-28 15:42:27.247   Successfully installed the file.
+2021-11-28 15:42:27.247   -- File entry --
+2021-11-28 15:42:27.247   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TaskbarPin\ICONPIN32.exe
+2021-11-28 15:42:27.247   Time stamp of our file: 2021-09-10 11:12:32.000
+2021-11-28 15:42:27.247   Installing the file.
+2021-11-28 15:42:27.247   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TaskbarPin
+2021-11-28 15:42:27.294   Successfully installed the file.
+2021-11-28 15:42:27.294   -- File entry --
+2021-11-28 15:42:27.294   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TaskbarPin\ICONPIN32.dll
+2021-11-28 15:42:27.294   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.294   Installing the file.
+2021-11-28 15:42:27.310   Successfully installed the file.
+2021-11-28 15:42:27.310   -- File entry --
+2021-11-28 15:42:27.310   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TaskbarPin\ICONPIN64.exe
+2021-11-28 15:42:27.310   Time stamp of our file: 2021-09-10 11:12:34.000
+2021-11-28 15:42:27.310   Installing the file.
+2021-11-28 15:42:27.363   Successfully installed the file.
+2021-11-28 15:42:27.363   -- File entry --
+2021-11-28 15:42:27.363   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TaskbarPin\ICONPIN64.dll
+2021-11-28 15:42:27.363   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:27.363   Installing the file.
+2021-11-28 15:42:27.394   Successfully installed the file.
+2021-11-28 15:42:27.394   -- File entry --
+2021-11-28 15:42:27.394   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost\AppSafe.txt
+2021-11-28 15:42:27.394   Time stamp of our file: 2018-09-28 13:52:46.000
+2021-11-28 15:42:27.394   Installing the file.
+2021-11-28 15:42:27.394   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost
+2021-11-28 15:42:27.394   Successfully installed the file.
+2021-11-28 15:42:27.394   -- File entry --
+2021-11-28 15:42:27.394   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost\ProcBL.txt
+2021-11-28 15:42:27.394   Time stamp of our file: 2020-09-14 15:41:02.000
+2021-11-28 15:42:27.394   Installing the file.
+2021-11-28 15:42:27.394   Successfully installed the file.
+2021-11-28 15:42:27.394   -- File entry --
+2021-11-28 15:42:27.394   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost\ProcWL.txt
+2021-11-28 15:42:27.394   Time stamp of our file: 2020-11-05 12:39:04.000
+2021-11-28 15:42:27.394   Installing the file.
+2021-11-28 15:42:27.394   Successfully installed the file.
+2021-11-28 15:42:27.394   -- File entry --
+2021-11-28 15:42:27.394   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost\3rdSvcWL.txt
+2021-11-28 15:42:27.394   Time stamp of our file: 2020-09-14 15:41:02.000
+2021-11-28 15:42:27.394   Installing the file.
+2021-11-28 15:42:27.394   Successfully installed the file.
+2021-11-28 15:42:27.394   -- File entry --
+2021-11-28 15:42:27.394   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost\WinSvc.ini
+2021-11-28 15:42:27.394   Time stamp of our file: 2020-09-14 15:41:02.000
+2021-11-28 15:42:27.394   Installing the file.
+2021-11-28 15:42:27.394   Successfully installed the file.
+2021-11-28 15:42:27.394   -- File entry --
+2021-11-28 15:42:27.394   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Boost\Score.db
+2021-11-28 15:42:27.394   Time stamp of our file: 2019-05-30 16:03:36.000
+2021-11-28 15:42:27.394   Installing the file.
+2021-11-28 15:42:27.410   Successfully installed the file.
+2021-11-28 15:42:27.410   -- File entry --
+2021-11-28 15:42:27.410   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Database\Scan\initial.wlst
+2021-11-28 15:42:27.410   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.410   Installing the file.
+2021-11-28 15:42:27.410   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Database
+2021-11-28 15:42:27.426   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Database\Scan
+2021-11-28 15:42:27.448   Successfully installed the file.
+2021-11-28 15:42:27.448   -- File entry --
+2021-11-28 15:42:27.448   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Database\sMarUpdateInfo.dbd
+2021-11-28 15:42:27.448   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.448   Installing the file.
+2021-11-28 15:42:27.479   Successfully installed the file.
+2021-11-28 15:42:27.479   -- File entry --
+2021-11-28 15:42:27.479   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History.txt
+2021-11-28 15:42:27.479   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.479   Installing the file.
+2021-11-28 15:42:27.479   Successfully installed the file.
+2021-11-28 15:42:27.479   -- File entry --
+2021-11-28 15:42:27.479   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Danish.txt
+2021-11-28 15:42:27.479   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.479   Installing the file.
+2021-11-28 15:42:27.479   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Dutch.txt
+2021-11-28 15:42:27.495   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.495   Installing the file.
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\French.txt
+2021-11-28 15:42:27.495   Time stamp of our file: 2021-10-22 11:08:02.000
+2021-11-28 15:42:27.495   Installing the file.
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\German.txt
+2021-11-28 15:42:27.495   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.495   Installing the file.
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Italian.txt
+2021-11-28 15:42:27.495   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.495   Installing the file.
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Japanese.txt
+2021-11-28 15:42:27.495   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.495   Installing the file.
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Polish.txt
+2021-11-28 15:42:27.495   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.495   Installing the file.
+2021-11-28 15:42:27.495   Successfully installed the file.
+2021-11-28 15:42:27.495   -- File entry --
+2021-11-28 15:42:27.495   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Portuguese (PT-BR).txt
+2021-11-28 15:42:27.510   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.510   Installing the file.
+2021-11-28 15:42:27.510   Successfully installed the file.
+2021-11-28 15:42:27.510   -- File entry --
+2021-11-28 15:42:27.510   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Russian.txt
+2021-11-28 15:42:27.510   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.510   Installing the file.
+2021-11-28 15:42:27.510   Successfully installed the file.
+2021-11-28 15:42:27.510   -- File entry --
+2021-11-28 15:42:27.510   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Spanish.txt
+2021-11-28 15:42:27.510   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.510   Installing the file.
+2021-11-28 15:42:27.510   Successfully installed the file.
+2021-11-28 15:42:27.510   -- File entry --
+2021-11-28 15:42:27.510   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\History\Swedish.txt
+2021-11-28 15:42:27.510   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.510   Installing the file.
+2021-11-28 15:42:27.510   Successfully installed the file.
+2021-11-28 15:42:27.510   -- File entry --
+2021-11-28 15:42:27.510   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Skin\black.rcc
+2021-11-28 15:42:27.510   Time stamp of our file: 2021-10-14 14:51:34.000
+2021-11-28 15:42:27.510   Installing the file.
+2021-11-28 15:42:27.510   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Skin
+2021-11-28 15:42:27.711   Successfully installed the file.
+2021-11-28 15:42:27.711   -- File entry --
+2021-11-28 15:42:27.711   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Skin\public.rcc
+2021-11-28 15:42:27.727   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:27.727   Installing the file.
+2021-11-28 15:42:27.733   Successfully installed the file.
+2021-11-28 15:42:27.733   -- File entry --
+2021-11-28 15:42:27.733   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Arabic.lng
+2021-11-28 15:42:27.733   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.733   Installing the file.
+2021-11-28 15:42:27.733   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language
+2021-11-28 15:42:27.733   Successfully installed the file.
+2021-11-28 15:42:27.733   -- File entry --
+2021-11-28 15:42:27.733   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Bulgarian.lng
+2021-11-28 15:42:27.733   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:27.733   Installing the file.
+2021-11-28 15:42:27.764   Successfully installed the file.
+2021-11-28 15:42:27.764   -- File entry --
+2021-11-28 15:42:27.764   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Catalan.lng
+2021-11-28 15:42:27.764   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.764   Installing the file.
+2021-11-28 15:42:27.764   Successfully installed the file.
+2021-11-28 15:42:27.764   -- File entry --
+2021-11-28 15:42:27.764   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\ChineseSimp.lng
+2021-11-28 15:42:27.764   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.764   Installing the file.
+2021-11-28 15:42:27.780   Successfully installed the file.
+2021-11-28 15:42:27.780   -- File entry --
+2021-11-28 15:42:27.780   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\ChineseTrad.lng
+2021-11-28 15:42:27.780   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.780   Installing the file.
+2021-11-28 15:42:27.780   Successfully installed the file.
+2021-11-28 15:42:27.780   -- File entry --
+2021-11-28 15:42:27.780   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Czech.lng
+2021-11-28 15:42:27.780   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.780   Installing the file.
+2021-11-28 15:42:27.796   Successfully installed the file.
+2021-11-28 15:42:27.796   -- File entry --
+2021-11-28 15:42:27.796   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Danish.lng
+2021-11-28 15:42:27.796   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.796   Installing the file.
+2021-11-28 15:42:27.796   Successfully installed the file.
+2021-11-28 15:42:27.796   -- File entry --
+2021-11-28 15:42:27.796   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Dutch.lng
+2021-11-28 15:42:27.796   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.796   Installing the file.
+2021-11-28 15:42:27.811   Successfully installed the file.
+2021-11-28 15:42:27.811   -- File entry --
+2021-11-28 15:42:27.811   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\English.lng
+2021-11-28 15:42:27.811   Time stamp of our file: 2021-10-14 14:51:34.000
+2021-11-28 15:42:27.811   Installing the file.
+2021-11-28 15:42:27.811   Successfully installed the file.
+2021-11-28 15:42:27.811   -- File entry --
+2021-11-28 15:42:27.811   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Finnish.lng
+2021-11-28 15:42:27.811   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.811   Installing the file.
+2021-11-28 15:42:27.827   Successfully installed the file.
+2021-11-28 15:42:27.827   -- File entry --
+2021-11-28 15:42:27.827   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\French.lng
+2021-11-28 15:42:27.827   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.827   Installing the file.
+2021-11-28 15:42:27.833   Successfully installed the file.
+2021-11-28 15:42:27.833   -- File entry --
+2021-11-28 15:42:27.833   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Georgian.lng
+2021-11-28 15:42:27.833   Time stamp of our file: 2021-09-15 11:25:22.000
+2021-11-28 15:42:27.833   Installing the file.
+2021-11-28 15:42:27.833   Successfully installed the file.
+2021-11-28 15:42:27.833   -- File entry --
+2021-11-28 15:42:27.833   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\German.lng
+2021-11-28 15:42:27.833   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.833   Installing the file.
+2021-11-28 15:42:27.833   Successfully installed the file.
+2021-11-28 15:42:27.849   -- File entry --
+2021-11-28 15:42:27.849   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Greek.lng
+2021-11-28 15:42:27.849   Time stamp of our file: 2021-09-15 11:25:22.000
+2021-11-28 15:42:27.849   Installing the file.
+2021-11-28 15:42:27.849   Successfully installed the file.
+2021-11-28 15:42:27.849   -- File entry --
+2021-11-28 15:42:27.849   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Hebrew.lng
+2021-11-28 15:42:27.849   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.849   Installing the file.
+2021-11-28 15:42:27.849   Successfully installed the file.
+2021-11-28 15:42:27.849   -- File entry --
+2021-11-28 15:42:27.849   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Hungarian.lng
+2021-11-28 15:42:27.849   Time stamp of our file: 2021-09-15 11:25:22.000
+2021-11-28 15:42:27.849   Installing the file.
+2021-11-28 15:42:27.865   Successfully installed the file.
+2021-11-28 15:42:27.865   -- File entry --
+2021-11-28 15:42:27.865   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Indonesian.lng
+2021-11-28 15:42:27.865   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.865   Installing the file.
+2021-11-28 15:42:27.880   Successfully installed the file.
+2021-11-28 15:42:27.880   -- File entry --
+2021-11-28 15:42:27.880   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Italian.lng
+2021-11-28 15:42:27.880   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.880   Installing the file.
+2021-11-28 15:42:27.880   Successfully installed the file.
+2021-11-28 15:42:27.880   -- File entry --
+2021-11-28 15:42:27.880   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Japanese.lng
+2021-11-28 15:42:27.880   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.880   Installing the file.
+2021-11-28 15:42:27.896   Successfully installed the file.
+2021-11-28 15:42:27.896   -- File entry --
+2021-11-28 15:42:27.896   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Korean.lng
+2021-11-28 15:42:27.896   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.896   Installing the file.
+2021-11-28 15:42:27.896   Successfully installed the file.
+2021-11-28 15:42:27.896   -- File entry --
+2021-11-28 15:42:27.896   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Malay.lng
+2021-11-28 15:42:27.896   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.896   Installing the file.
+2021-11-28 15:42:27.896   Successfully installed the file.
+2021-11-28 15:42:27.896   -- File entry --
+2021-11-28 15:42:27.896   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Norwegian.lng
+2021-11-28 15:42:27.896   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.896   Installing the file.
+2021-11-28 15:42:27.911   Successfully installed the file.
+2021-11-28 15:42:27.911   -- File entry --
+2021-11-28 15:42:27.911   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Persian.lng
+2021-11-28 15:42:27.911   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.911   Installing the file.
+2021-11-28 15:42:27.911   Successfully installed the file.
+2021-11-28 15:42:27.911   -- File entry --
+2021-11-28 15:42:27.911   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Polish.lng
+2021-11-28 15:42:27.911   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.911   Installing the file.
+2021-11-28 15:42:27.927   Successfully installed the file.
+2021-11-28 15:42:27.927   -- File entry --
+2021-11-28 15:42:27.927   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Portuguese (PT-BR).lng
+2021-11-28 15:42:27.927   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.927   Installing the file.
+2021-11-28 15:42:27.934   Successfully installed the file.
+2021-11-28 15:42:27.934   -- File entry --
+2021-11-28 15:42:27.934   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Portuguese (PT-PT).lng
+2021-11-28 15:42:27.934   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:27.934   Installing the file.
+2021-11-28 15:42:27.934   Successfully installed the file.
+2021-11-28 15:42:27.934   -- File entry --
+2021-11-28 15:42:27.934   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Romanian.lng
+2021-11-28 15:42:27.934   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.949   Installing the file.
+2021-11-28 15:42:27.949   Successfully installed the file.
+2021-11-28 15:42:27.949   -- File entry --
+2021-11-28 15:42:27.949   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Russian.lng
+2021-11-28 15:42:27.949   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.949   Installing the file.
+2021-11-28 15:42:27.949   Successfully installed the file.
+2021-11-28 15:42:27.949   -- File entry --
+2021-11-28 15:42:27.949   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Serbian (Cyrillic).lng
+2021-11-28 15:42:27.949   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.949   Installing the file.
+2021-11-28 15:42:27.965   Successfully installed the file.
+2021-11-28 15:42:27.965   -- File entry --
+2021-11-28 15:42:27.965   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Serbian (Latin).lng
+2021-11-28 15:42:27.965   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.965   Installing the file.
+2021-11-28 15:42:27.980   Successfully installed the file.
+2021-11-28 15:42:27.980   -- File entry --
+2021-11-28 15:42:27.980   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Slovak.lng
+2021-11-28 15:42:27.980   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.980   Installing the file.
+2021-11-28 15:42:27.980   Successfully installed the file.
+2021-11-28 15:42:27.980   -- File entry --
+2021-11-28 15:42:27.980   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Slovenian.lng
+2021-11-28 15:42:27.980   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.980   Installing the file.
+2021-11-28 15:42:27.996   Successfully installed the file.
+2021-11-28 15:42:27.996   -- File entry --
+2021-11-28 15:42:27.996   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Spanish.lng
+2021-11-28 15:42:27.996   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.996   Installing the file.
+2021-11-28 15:42:27.996   Successfully installed the file.
+2021-11-28 15:42:27.996   -- File entry --
+2021-11-28 15:42:27.996   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Swedish.lng
+2021-11-28 15:42:27.996   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:27.996   Installing the file.
+2021-11-28 15:42:28.012   Successfully installed the file.
+2021-11-28 15:42:28.012   -- File entry --
+2021-11-28 15:42:28.012   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Turkish.lng
+2021-11-28 15:42:28.012   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:28.012   Installing the file.
+2021-11-28 15:42:28.027   Successfully installed the file.
+2021-11-28 15:42:28.027   -- File entry --
+2021-11-28 15:42:28.027   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Ukrainian.lng
+2021-11-28 15:42:28.027   Time stamp of our file: 2021-09-15 11:25:22.000
+2021-11-28 15:42:28.027   Installing the file.
+2021-11-28 15:42:28.034   Successfully installed the file.
+2021-11-28 15:42:28.034   -- File entry --
+2021-11-28 15:42:28.034   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Language\Vietnamese.lng
+2021-11-28 15:42:28.034   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:28.034   Installing the file.
+2021-11-28 15:42:28.034   Successfully installed the file.
+2021-11-28 15:42:28.034   -- File entry --
+2021-11-28 15:42:28.034   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Arabic.ini
+2021-11-28 15:42:28.034   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.034   Installing the file.
+2021-11-28 15:42:28.034   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec
+2021-11-28 15:42:28.049   Successfully installed the file.
+2021-11-28 15:42:28.049   -- File entry --
+2021-11-28 15:42:28.049   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Bulgarian.ini
+2021-11-28 15:42:28.049   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.049   Installing the file.
+2021-11-28 15:42:28.049   Successfully installed the file.
+2021-11-28 15:42:28.049   -- File entry --
+2021-11-28 15:42:28.049   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\ChineseSimp.ini
+2021-11-28 15:42:28.049   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.049   Installing the file.
+2021-11-28 15:42:28.065   Successfully installed the file.
+2021-11-28 15:42:28.065   -- File entry --
+2021-11-28 15:42:28.065   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\ChineseTrad.ini
+2021-11-28 15:42:28.065   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.065   Installing the file.
+2021-11-28 15:42:28.065   Successfully installed the file.
+2021-11-28 15:42:28.065   -- File entry --
+2021-11-28 15:42:28.065   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Croatian.ini
+2021-11-28 15:42:28.065   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.065   Installing the file.
+2021-11-28 15:42:28.065   Successfully installed the file.
+2021-11-28 15:42:28.065   -- File entry --
+2021-11-28 15:42:28.065   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Danish.ini
+2021-11-28 15:42:28.065   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.065   Installing the file.
+2021-11-28 15:42:28.065   Successfully installed the file.
+2021-11-28 15:42:28.065   -- File entry --
+2021-11-28 15:42:28.065   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\English.ini
+2021-11-28 15:42:28.065   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.065   Installing the file.
+2021-11-28 15:42:28.081   Successfully installed the file.
+2021-11-28 15:42:28.081   -- File entry --
+2021-11-28 15:42:28.081   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Finnish.ini
+2021-11-28 15:42:28.081   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.081   Installing the file.
+2021-11-28 15:42:28.081   Successfully installed the file.
+2021-11-28 15:42:28.081   -- File entry --
+2021-11-28 15:42:28.081   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\French.ini
+2021-11-28 15:42:28.081   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.081   Installing the file.
+2021-11-28 15:42:28.081   Successfully installed the file.
+2021-11-28 15:42:28.081   -- File entry --
+2021-11-28 15:42:28.081   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\German.ini
+2021-11-28 15:42:28.081   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.081   Installing the file.
+2021-11-28 15:42:28.081   Successfully installed the file.
+2021-11-28 15:42:28.081   -- File entry --
+2021-11-28 15:42:28.081   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Greek.ini
+2021-11-28 15:42:28.081   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.081   Installing the file.
+2021-11-28 15:42:28.096   Successfully installed the file.
+2021-11-28 15:42:28.096   -- File entry --
+2021-11-28 15:42:28.096   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Hebrew.ini
+2021-11-28 15:42:28.096   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.096   Installing the file.
+2021-11-28 15:42:28.096   Successfully installed the file.
+2021-11-28 15:42:28.096   -- File entry --
+2021-11-28 15:42:28.096   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Hungarian.ini
+2021-11-28 15:42:28.096   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.096   Installing the file.
+2021-11-28 15:42:28.096   Successfully installed the file.
+2021-11-28 15:42:28.096   -- File entry --
+2021-11-28 15:42:28.096   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Indonesian.ini
+2021-11-28 15:42:28.096   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.096   Installing the file.
+2021-11-28 15:42:28.112   Successfully installed the file.
+2021-11-28 15:42:28.112   -- File entry --
+2021-11-28 15:42:28.112   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Italian.ini
+2021-11-28 15:42:28.112   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.112   Installing the file.
+2021-11-28 15:42:28.112   Successfully installed the file.
+2021-11-28 15:42:28.112   -- File entry --
+2021-11-28 15:42:28.112   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Japanese.ini
+2021-11-28 15:42:28.112   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.112   Installing the file.
+2021-11-28 15:42:28.112   Successfully installed the file.
+2021-11-28 15:42:28.112   -- File entry --
+2021-11-28 15:42:28.112   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Korean.ini
+2021-11-28 15:42:28.112   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.112   Installing the file.
+2021-11-28 15:42:28.112   Successfully installed the file.
+2021-11-28 15:42:28.112   -- File entry --
+2021-11-28 15:42:28.112   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Latvian.ini
+2021-11-28 15:42:28.112   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.112   Installing the file.
+2021-11-28 15:42:28.128   Successfully installed the file.
+2021-11-28 15:42:28.128   -- File entry --
+2021-11-28 15:42:28.128   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Nederlands.ini
+2021-11-28 15:42:28.128   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.128   Installing the file.
+2021-11-28 15:42:28.128   Successfully installed the file.
+2021-11-28 15:42:28.128   -- File entry --
+2021-11-28 15:42:28.128   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Polish.ini
+2021-11-28 15:42:28.128   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.128   Installing the file.
+2021-11-28 15:42:28.135   Successfully installed the file.
+2021-11-28 15:42:28.135   -- File entry --
+2021-11-28 15:42:28.135   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Portuguese (PT-BR).ini
+2021-11-28 15:42:28.135   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.135   Installing the file.
+2021-11-28 15:42:28.135   Successfully installed the file.
+2021-11-28 15:42:28.135   -- File entry --
+2021-11-28 15:42:28.135   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Portuguese (PT-PT).ini
+2021-11-28 15:42:28.135   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.135   Installing the file.
+2021-11-28 15:42:28.135   Successfully installed the file.
+2021-11-28 15:42:28.135   -- File entry --
+2021-11-28 15:42:28.135   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Romanian.ini
+2021-11-28 15:42:28.135   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.135   Installing the file.
+2021-11-28 15:42:28.135   Successfully installed the file.
+2021-11-28 15:42:28.135   -- File entry --
+2021-11-28 15:42:28.135   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Russian.ini
+2021-11-28 15:42:28.135   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.135   Installing the file.
+2021-11-28 15:42:28.150   Successfully installed the file.
+2021-11-28 15:42:28.150   -- File entry --
+2021-11-28 15:42:28.150   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Serbian (Latin).ini
+2021-11-28 15:42:28.150   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.150   Installing the file.
+2021-11-28 15:42:28.150   Successfully installed the file.
+2021-11-28 15:42:28.150   -- File entry --
+2021-11-28 15:42:28.150   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Slovenian.ini
+2021-11-28 15:42:28.150   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.150   Installing the file.
+2021-11-28 15:42:28.150   Successfully installed the file.
+2021-11-28 15:42:28.150   -- File entry --
+2021-11-28 15:42:28.150   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Spanish.ini
+2021-11-28 15:42:28.150   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.150   Installing the file.
+2021-11-28 15:42:28.150   Successfully installed the file.
+2021-11-28 15:42:28.150   -- File entry --
+2021-11-28 15:42:28.150   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Swedish.ini
+2021-11-28 15:42:28.150   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.150   Installing the file.
+2021-11-28 15:42:28.150   Successfully installed the file.
+2021-11-28 15:42:28.150   -- File entry --
+2021-11-28 15:42:28.150   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Thai.ini
+2021-11-28 15:42:28.150   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.150   Installing the file.
+2021-11-28 15:42:28.166   Successfully installed the file.
+2021-11-28 15:42:28.166   -- File entry --
+2021-11-28 15:42:28.166   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Turkish.ini
+2021-11-28 15:42:28.166   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.166   Installing the file.
+2021-11-28 15:42:28.166   Successfully installed the file.
+2021-11-28 15:42:28.166   -- File entry --
+2021-11-28 15:42:28.166   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ErrCodeSpec\Ukrainian.ini
+2021-11-28 15:42:28.166   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.166   Installing the file.
+2021-11-28 15:42:28.166   Successfully installed the file.
+2021-11-28 15:42:28.166   -- File entry --
+2021-11-28 15:42:28.166   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\Apps.ini
+2021-11-28 15:42:28.166   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:28.166   Installing the file.
+2021-11-28 15:42:28.166   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData
+2021-11-28 15:42:28.182   Successfully installed the file.
+2021-11-28 15:42:28.182   -- File entry --
+2021-11-28 15:42:28.182   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\dtionex.ini
+2021-11-28 15:42:28.182   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:28.182   Installing the file.
+2021-11-28 15:42:28.182   Successfully installed the file.
+2021-11-28 15:42:28.182   -- File entry --
+2021-11-28 15:42:28.182   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\InstConf.ini
+2021-11-28 15:42:28.182   Time stamp of our file: 2018-09-19 10:13:24.000
+2021-11-28 15:42:28.182   Installing the file.
+2021-11-28 15:42:28.182   Successfully installed the file.
+2021-11-28 15:42:28.182   -- File entry --
+2021-11-28 15:42:28.182   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\OffUpd.ini
+2021-11-28 15:42:28.182   Time stamp of our file: 2021-10-11 10:19:46.000
+2021-11-28 15:42:28.182   Installing the file.
+2021-11-28 15:42:28.182   Successfully installed the file.
+2021-11-28 15:42:28.182   -- File entry --
+2021-11-28 15:42:28.182   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\RqstFilter.ini
+2021-11-28 15:42:28.182   Time stamp of our file: 2017-06-07 05:19:40.000
+2021-11-28 15:42:28.182   Installing the file.
+2021-11-28 15:42:28.182   Successfully installed the file.
+2021-11-28 15:42:28.182   -- File entry --
+2021-11-28 15:42:28.182   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\Scheduler.ini
+2021-11-28 15:42:28.182   Time stamp of our file: 2020-12-04 11:24:14.000
+2021-11-28 15:42:28.182   Installing the file.
+2021-11-28 15:42:28.197   Successfully installed the file.
+2021-11-28 15:42:28.197   -- File entry --
+2021-11-28 15:42:28.197   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\Vendor.ini
+2021-11-28 15:42:28.197   Time stamp of our file: 2017-06-07 05:19:40.000
+2021-11-28 15:42:28.197   Installing the file.
+2021-11-28 15:42:28.197   Successfully installed the file.
+2021-11-28 15:42:28.197   -- File entry --
+2021-11-28 15:42:28.197   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\LocalData\WhiteList.ini
+2021-11-28 15:42:28.197   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:28.197   Installing the file.
+2021-11-28 15:42:28.197   Successfully installed the file.
+2021-11-28 15:42:28.197   -- File entry --
+2021-11-28 15:42:28.197   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Update\appver-ac.ini
+2021-11-28 15:42:28.197   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:28.197   Installing the file.
+2021-11-28 15:42:28.197   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Update
+2021-11-28 15:42:28.197   Successfully installed the file.
+2021-11-28 15:42:28.197   -- File entry --
+2021-11-28 15:42:28.197   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Update\Freeware.ini
+2021-11-28 15:42:28.197   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:28.197   Installing the file.
+2021-11-28 15:42:28.197   Successfully installed the file.
+2021-11-28 15:42:28.197   -- File entry --
+2021-11-28 15:42:28.197   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Update\Update.ini
+2021-11-28 15:42:28.197   Time stamp of our file: 2021-10-21 17:37:40.000
+2021-11-28 15:42:28.197   Installing the file.
+2021-11-28 15:42:28.197   Successfully installed the file.
+2021-11-28 15:42:28.197   -- File entry --
+2021-11-28 15:42:28.197   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Main\0.ico
+2021-11-28 15:42:28.197   Time stamp of our file: 2017-06-07 05:19:40.000
+2021-11-28 15:42:28.197   Installing the file.
+2021-11-28 15:42:28.197   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons
+2021-11-28 15:42:28.197   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Main
+2021-11-28 15:42:28.213   Successfully installed the file.
+2021-11-28 15:42:28.213   -- File entry --
+2021-11-28 15:42:28.213   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\directx.png
+2021-11-28 15:42:28.213   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.213   Installing the file.
+2021-11-28 15:42:28.213   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps
+2021-11-28 15:42:28.213   Successfully installed the file.
+2021-11-28 15:42:28.213   -- File entry --
+2021-11-28 15:42:28.213   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\dotnet.png
+2021-11-28 15:42:28.213   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.213   Installing the file.
+2021-11-28 15:42:28.213   Successfully installed the file.
+2021-11-28 15:42:28.213   -- File entry --
+2021-11-28 15:42:28.213   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\jre.png
+2021-11-28 15:42:28.213   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.213   Installing the file.
+2021-11-28 15:42:28.213   Successfully installed the file.
+2021-11-28 15:42:28.213   -- File entry --
+2021-11-28 15:42:28.213   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\LDPicon.png
+2021-11-28 15:42:28.213   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.213   Installing the file.
+2021-11-28 15:42:28.228   Successfully installed the file.
+2021-11-28 15:42:28.228   -- File entry --
+2021-11-28 15:42:28.228   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\LDPmini.png
+2021-11-28 15:42:28.228   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.228   Installing the file.
+2021-11-28 15:42:28.235   Successfully installed the file.
+2021-11-28 15:42:28.235   -- File entry --
+2021-11-28 15:42:28.235   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\minitoolicon.png
+2021-11-28 15:42:28.235   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.235   Installing the file.
+2021-11-28 15:42:28.235   Successfully installed the file.
+2021-11-28 15:42:28.235   -- File entry --
+2021-11-28 15:42:28.235   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\minitooloffer.png
+2021-11-28 15:42:28.235   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.235   Installing the file.
+2021-11-28 15:42:28.235   Successfully installed the file.
+2021-11-28 15:42:28.235   -- File entry --
+2021-11-28 15:42:28.235   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\null.png
+2021-11-28 15:42:28.235   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.235   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\openal.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\physx.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\silverlight.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\soft.ico
+2021-11-28 15:42:28.251   Time stamp of our file: 2019-11-11 17:17:16.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\unity3d.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2008.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2010.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.251   Successfully installed the file.
+2021-11-28 15:42:28.251   -- File entry --
+2021-11-28 15:42:28.251   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2012.png
+2021-11-28 15:42:28.251   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.251   Installing the file.
+2021-11-28 15:42:28.266   Successfully installed the file.
+2021-11-28 15:42:28.266   -- File entry --
+2021-11-28 15:42:28.266   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2013.png
+2021-11-28 15:42:28.266   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.266   Installing the file.
+2021-11-28 15:42:28.266   Successfully installed the file.
+2021-11-28 15:42:28.266   -- File entry --
+2021-11-28 15:42:28.266   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2015.png
+2021-11-28 15:42:28.266   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.266   Installing the file.
+2021-11-28 15:42:28.266   Successfully installed the file.
+2021-11-28 15:42:28.266   -- File entry --
+2021-11-28 15:42:28.266   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2017.png
+2021-11-28 15:42:28.266   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.266   Installing the file.
+2021-11-28 15:42:28.266   Successfully installed the file.
+2021-11-28 15:42:28.266   -- File entry --
+2021-11-28 15:42:28.266   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\vcrt2019.png
+2021-11-28 15:42:28.266   Time stamp of our file: 2019-08-06 15:00:42.000
+2021-11-28 15:42:28.266   Installing the file.
+2021-11-28 15:42:28.266   Successfully installed the file.
+2021-11-28 15:42:28.266   -- File entry --
+2021-11-28 15:42:28.266   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\wingame.png
+2021-11-28 15:42:28.266   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.266   Installing the file.
+2021-11-28 15:42:28.266   Successfully installed the file.
+2021-11-28 15:42:28.266   -- File entry --
+2021-11-28 15:42:28.266   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\xml.png
+2021-11-28 15:42:28.266   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.266   Installing the file.
+2021-11-28 15:42:28.282   Successfully installed the file.
+2021-11-28 15:42:28.282   -- File entry --
+2021-11-28 15:42:28.282   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Icons\Apps\xna.png
+2021-11-28 15:42:28.282   Time stamp of our file: 2018-07-13 16:56:06.000
+2021-11-28 15:42:28.282   Installing the file.
+2021-11-28 15:42:28.282   Successfully installed the file.
+2021-11-28 15:42:28.282   -- File entry --
+2021-11-28 15:42:28.282   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\IObitDownloader.exe
+2021-11-28 15:42:28.282   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.282   Installing the file.
+2021-11-28 15:42:28.366   Successfully installed the file.
+2021-11-28 15:42:28.366   -- File entry --
+2021-11-28 15:42:28.366   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\7zTest.7z
+2021-11-28 15:42:28.366   Time stamp of our file: 2017-06-07 05:19:40.000
+2021-11-28 15:42:28.366   Installing the file.
+2021-11-28 15:42:28.366   Successfully installed the file.
+2021-11-28 15:42:28.366   -- File entry --
+2021-11-28 15:42:28.366   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\local.dat
+2021-11-28 15:42:28.366   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.366   Installing the file.
+2021-11-28 15:42:28.366   Successfully installed the file.
+2021-11-28 15:42:28.366   -- File entry --
+2021-11-28 15:42:28.366   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Reserve\Config.ini
+2021-11-28 15:42:28.366   Time stamp of our file: 2021-10-20 10:47:22.000
+2021-11-28 15:42:28.366   Installing the file.
+2021-11-28 15:42:28.366   Creating directory: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Reserve
+2021-11-28 15:42:28.366   Successfully installed the file.
+2021-11-28 15:42:28.366   -- File entry --
+2021-11-28 15:42:28.366   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TrialPromote.exe
+2021-11-28 15:42:28.366   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.366   Installing the file.
+2021-11-28 15:42:28.451   Successfully installed the file.
+2021-11-28 15:42:28.451   -- File entry --
+2021-11-28 15:42:28.451   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Transform.exe
+2021-11-28 15:42:28.451   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.451   Installing the file.
+2021-11-28 15:42:28.514   Successfully installed the file.
+2021-11-28 15:42:28.514   -- File entry --
+2021-11-28 15:42:28.514   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\IsuScan.exe
+2021-11-28 15:42:28.514   Time stamp of our file: 2021-09-13 10:32:28.000
+2021-11-28 15:42:28.514   Installing the file.
+2021-11-28 15:42:28.536   Successfully installed the file.
+2021-11-28 15:42:28.536   -- File entry --
+2021-11-28 15:42:28.536   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\TrialSchPt.exe
+2021-11-28 15:42:28.536   Time stamp of our file: 2021-09-13 10:32:34.000
+2021-11-28 15:42:28.536   Installing the file.
+2021-11-28 15:42:28.636   Successfully installed the file.
+2021-11-28 15:42:28.636   -- Icon entry --
+2021-11-28 15:42:28.652   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Driver Booster 9\Driver Booster 9.lnk
+2021-11-28 15:42:28.652   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Driver Booster 9
+2021-11-28 15:42:28.652   Creating the icon.
+2021-11-28 15:42:28.899   Successfully created the icon.
+2021-11-28 15:42:28.899   -- Icon entry --
+2021-11-28 15:42:28.899   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Driver Booster 9\Uninstall Driver Booster 9.lnk
+2021-11-28 15:42:28.899   Creating the icon.
+2021-11-28 15:42:28.899   Successfully created the icon.
+2021-11-28 15:42:28.915   -- Icon entry --
+2021-11-28 15:42:28.915   Dest filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\Driver Booster 9.lnk
+2021-11-28 15:42:28.915   Creating the icon.
+2021-11-28 15:42:28.915   Successfully created the icon.
+2021-11-28 15:42:28.930   -- Icon entry --
+2021-11-28 15:42:28.937   Dest filename: C:\Users\Public\Desktop\Driver Booster 9.lnk
+2021-11-28 15:42:28.937   Creating the icon.
+2021-11-28 15:42:28.937   Successfully created the icon.
+2021-11-28 15:42:28.968   Installation process succeeded.
+2021-11-28 15:42:28.968   -- Run entry --
+2021-11-28 15:42:28.968   Run as: Current user
+2021-11-28 15:42:28.968   Type: Exec
+2021-11-28 15:42:28.968   Filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\HWiNFO\HWiNFO.exe
+2021-11-28 15:42:28.968   Parameters: /brandname
+2021-11-28 15:42:29.654   -- Run entry --
+2021-11-28 15:42:29.654   Run as: Current user
+2021-11-28 15:42:29.654   Type: Exec
+2021-11-28 15:42:29.654   Filename: C:\Program Files (x86)\IObit\Driver Booster\9.0.1\CareScan.exe
+2021-11-28 15:42:29.654   Parameters: /savefile /silentscan /low /output="C:\Program Files (x86)\IObit\Driver Booster\9.0.1\ScanData\ScanResult_all.ini"
+2021-11-28 15:42:29.741   Need to restart Windows? No
+2021-11-28 15:42:37.901   Deinitializing Setup.
+2021-11-28 15:42:37.947   Log closed.

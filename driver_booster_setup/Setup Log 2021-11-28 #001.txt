@@ -1,0 +1,23 @@
+﻿2021-11-28 15:41:33.058   Log opened. (Time zone: UTC+09:00)
+2021-11-28 15:41:33.058   Setup version: Inno Setup version 5.5.9 (u)
+2021-11-28 15:41:33.058   Original Setup EXE: C:\Users\DongSub_Joung\Downloads\driver_booster_setup.exe
+2021-11-28 15:41:33.058   Setup command line: /SL5="$A0354,26073627,139264,C:\Users\DongSub_Joung\Downloads\driver_booster_setup.exe" /SPAWNWND=$3503DA /NOTIFYWND=$D0368 
+2021-11-28 15:41:33.058   Windows version: 10.0.19043  (NT platform: Yes)
+2021-11-28 15:41:33.058   64-bit Windows: Yes
+2021-11-28 15:41:33.058   Processor architecture: x64
+2021-11-28 15:41:33.058   User privileges: Administrative
+2021-11-28 15:41:33.058   64-bit install mode: No
+2021-11-28 15:41:33.073   Created temporary directory: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp
+2021-11-28 15:41:33.095   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\RdZone.dll
+2021-11-28 15:41:35.538   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\Inno_English.lng
+2021-11-28 15:41:38.091   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\Inno_English.lng
+2021-11-28 15:41:40.479   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\Icon_1.bmp
+2021-11-28 15:41:40.532   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\DriverBooster.exe
+2021-11-28 15:41:41.281   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\EULA.rtf
+2021-11-28 15:41:41.620   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\libssl-1_1.dll
+2021-11-28 15:41:42.724   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\libcrypto-1_1.dll
+2021-11-28 15:41:42.840   Extracting temporary file: C:\Users\DONGSU~2\AppData\Local\Temp\is-BHMAL.tmp\DBInstaller.exe
+2021-11-28 15:41:44.695   InitializeSetup returned False; aborting.
+2021-11-28 15:41:44.695   Got EAbort exception.
+2021-11-28 15:41:44.695   Deinitializing Setup.
+2021-11-28 15:41:44.735   Log closed.
