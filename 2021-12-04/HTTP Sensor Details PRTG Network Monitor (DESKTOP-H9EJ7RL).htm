@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html><!--
+ _____  _______ _______ _______ _______        _______  ______
+|_____] |_____| |______ |______ |______ |      |______ |_____/
+|       |     | |______ ______| ______| |_____ |______ |    \_
+
+We are hiring! https://jobs.paessler.com
+
+--><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <link rel="manifest" href="https://127.0.0.1/public/manifest.json.htm">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex, follow">
+  
+  <title>HTTP | Sensor Details | PRTG Network Monitor (DESKTOP-H9EJ7RL)</title>
+  
+  <link rel="stylesheet" href="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/prtg0.css">
+  <link rel="stylesheet" type="text/css" href="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/print.css" media="print">
+  <style type="text/css">
+		.hidefornoneadmins{}
+		.hideforreadonly {}
+  </style>
+   
+   
+  <script async="" src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/analytics.js"></script><script src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/jquery.js"></script>
+  <script>// libload.js
+/* Create the _Prtg object and his aliases. */
+var _Prtg = _Prtg || {supportsTouch: ('ontouchstart' in window || navigator.msMaxTouchPoints)};
+_Prtg.serverTime= (new Date());
+
+_Prtg.Plugins = {
+  'registerPlugin': function(name, plugin) {
+    _Prtg.Plugins[name] = {
+      'init': function(data, parent) {
+        obj = (new plugin( this, data, parent ));
+        $(this).data(name, obj);
+        return _Prtg.Plugins[name]['plugin'] = obj;
+      }
+    };
+  }
+};
+
+/* Various semi global options. */
+_Prtg.Options = {
+  ajaxTimeout: 30000,
+  connectionLost: false,
+  refreshInterval: parseInt('30', 10) || 30,
+  refreshType: 'elements',
+  recommender: true,
+  userIsReadOnly: true,
+  userTicketSystem:false,
+  allowAcknowledge: false,
+  playAlarmSound: parseInt("0", 10),
+  geomapprovider: '',
+  geomaptype: '',
+  geomapapikey: '',
+  geomapZoomLevels: 18,
+  pageIsDashboard: false, // TODO: must be set correctly
+  connectionCheck: new Date(),
+  userTimezone: {
+                offset: '-540',
+                name: 'LocalTime'
+              },
+  version: '21.4.72.1649+',
+  language: 'en',
+  cachebreaker: 'version=21.4.72.1649+&language=en',
+  currentUserId: 100,
+  userDateTimeFormat: 'yy-mm-dd HH:mm',
+  googlemapstype: '',
+  googlemapsapikey: '',
+  dependencygraph: {
+    gravity: 0.3,
+    friction:0.8,
+    charge: -800,
+    linkStrength: function(link){return {"Parent":0.5,"Extern":1,"Select":1,"Master":1}[link.type]},
+    linkDistance: function(link){return link.type === "Select" || link.type === "Extern"?30:5;}
+  },
+  sitename: "PRTG Network Monitor (DESKTOP-H9EJ7RL)",
+  dnsname: "",
+  logoutAfterInactivity: -1*60,
+  browser: 'firefox',
+  lastpurgedate: '2020-12-03-00-00-00'
+};
+_Prtg.Options.sitename = $('<div>'+_Prtg.Options.sitename+'</div>').text();
+_Prtg.lastStats = {
+  "AckAlarms": "",
+  "Alarms": "",
+  "AutoDiscoTasks": "0",
+  "BackgroundTasks": "0",
+  "Clock": "12/4/2021 7:37:45 AM",
+  "ClusterNodeName":"",
+  "ClusterType":"",
+  "CommercialExpiryDays": -999999,
+  "CorrelationTasks": "0",
+  "DaysInstalled": 28,
+  "EditionType": "T",
+  "Favs": 7,
+  "jsClock": 1638571065,
+  "LowMem": false,
+  "MaintExpiryDays": "338",
+  "MaxSensorCount": "unlimited",
+  "NewAlarms": "0",
+  "NewMessages": "0",
+  "NewTickets": "0",
+  "Overloadprotection": false,
+  "PartialAlarms": "",
+  "PausedSens": "",
+  "PRTGUpdateAvailable": false,
+  "ReadOnlyAllowAcknowledge": "",
+  "ReadOnlyUser": "",
+  "ReportTasks": "0",
+  "TotalSens": 7,
+  "TrialExpiryDays": 2,
+  "UnknownSens": "1",
+  "UnusualSens": "",
+  "UpSens": "4",
+  "Version": "21.4.72.1649+",
+  "Warnings": [{"id":"defaultpassword","type":"important","title":"Set a Secure Password","message":"<span>The PRTG System Administrator user account uses the default password \"prtgadmin\". Please change it to secure your PRTG web interface.</span><span>This is absolutely mandatory if you allow access to the PRTG web interface from the internet (outside your firewall)!</span><a class=\"actionbutton\" href=\"/edituser.htm?id=100\">Change Default Password</a>","time":99999}],
+  "WarnSens": "2",
+    "object":{}
+}
+;
+
+_Prtg.Options.userIsReadOnly=false;
+
+_Prtg.Options.userTicketSystem=true;
+
+if (!window.location.origin) {
+  window.location.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port: '');
+}
+</script>
+  
+  <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','__ga');
+__ga('create', 'UA-154425-16', {
+'cookieDomain':'none',
+'appId':'10',
+'appName':'PRTG Network Monitor (DESKTOP-H9EJ7RL)',
+'appVersion':'21.4.72.1649'
+});
+(function(){
+  var url =  document.createElement("a")
+    , urlStripOff = ["mapid", "tmpid", "subid", "topnumber", "username", "password", "email_address"];
+  window.__gaStripOrigin = function(urlString){
+    var param = [];
+    url.href = (""+urlString);
+    param = url.search.replace("?","").split("&");
+    param = param.filter(function(value){
+     return (value !== "" && urlStripOff.indexOf(value.split("=")[0]) === -1)
+    });
+ return url.pathname + (param.length === 0 ? "" : "?" +  param.join("&"));
+};})();
+__ga("set", "location", "");
+__ga("set", "hostname", "trial.paessler.com");
+__ga("set","dimension4","0");
+__ga("set","dimension3","21.4.72.1649".split(".").slice(0,3).join("."));
+__ga("set","dimension2","28");
+__ga("set","dimension1","webgui");
+</script>
+<style type="text/css">.jqstooltip { position: absolute;left: 0px;top: 0px;visibility: hidden;background: rgb(0, 0, 0) transparent;background-color: rgba(0,0,0,0.6);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";color: white;font: 10px arial, san serif;text-align: left;white-space: nowrap;padding: 5px;border: 1px solid white;z-index: 10000;}.jqsfield { color: white;font: 10px arial, san serif;text-align: left;}</style><style type="text/css" id="vakata-stylesheet">#vakata-dragged { display:block; margin:0 0 0 0; padding:4px 4px 4px 24px; position:absolute; top:-2000px; line-height:16px; z-index:10000; } #vakata-contextmenu { display:block; visibility:hidden; left:0; top:-200px; position:absolute; margin:0; padding:0; min-width:180px; background:#ebebeb; border:1px solid silver; z-index:10000; *width:180px; } #vakata-contextmenu ul { min-width:180px; *width:180px; } #vakata-contextmenu ul, #vakata-contextmenu li { margin:0; padding:0; list-style-type:none; display:block; } #vakata-contextmenu li { line-height:20px; min-height:20px; position:relative; padding:0px; } #vakata-contextmenu li a { padding:1px 6px; line-height:17px; display:block; text-decoration:none; margin:1px 1px 0 1px; } #vakata-contextmenu li ins { float:left; width:16px; height:16px; text-decoration:none; margin-right:2px; } #vakata-contextmenu li a:hover, #vakata-contextmenu li.vakata-hover > a { background:gray; color:white; } #vakata-contextmenu li ul { display:none; position:absolute; top:-2px; left:100%; background:#ebebeb; border:1px solid gray; } #vakata-contextmenu .right { right:100%; left:auto; } #vakata-contextmenu .bottom { bottom:-1px; top:auto; } #vakata-contextmenu li.vakata-separator { min-height:0; height:1px; line-height:1px; font-size:1px; overflow:hidden; margin:0 2px; background:silver; /* border-top:1px solid #fefefe; */ padding:0; } </style><style type="text/css" id="jstree-stylesheet">.jstree ul, .jstree li { display:block; margin:0 0 0 0; padding:0 0 0 0; list-style-type:none; } .jstree li { display:block; min-height:18px; line-height:18px; white-space:nowrap; margin-left:18px; min-width:18px; } .jstree-rtl li { margin-left:0; margin-right:18px; } .jstree > ul > li { margin-left:0px; } .jstree-rtl > ul > li { margin-right:0px; } .jstree ins { display:inline-block; text-decoration:none; width:18px; height:18px; margin:0 0 0 0; padding:0; } .jstree a { display:inline-block; line-height:16px; height:16px; color:black; white-space:nowrap; text-decoration:none; padding:1px 2px; margin:0; } .jstree a:focus { outline: none; } .jstree a > ins { height:16px; width:16px; } .jstree a > .jstree-icon { margin-right:3px; } .jstree-rtl a > .jstree-icon { margin-left:3px; margin-right:0; } li.jstree-open > ul { display:block; } li.jstree-closed > ul { display:none; } #vakata-dragged ins { display:block; text-decoration:none; width:16px; height:16px; margin:0 0 0 0; padding:0; position:absolute; top:4px; left:4px;  -moz-border-radius:4px; border-radius:4px; -webkit-border-radius:4px; } #vakata-dragged .jstree-ok { background:green; } #vakata-dragged .jstree-invalid { background:red; } #jstree-marker { padding:0; margin:0; font-size:12px; overflow:hidden; height:12px; width:8px; position:absolute; top:-30px; z-index:10001; background-repeat:no-repeat; display:none; background-color:transparent; text-shadow:1px 1px 1px white; color:black; line-height:10px; } #jstree-marker-line { padding:0; margin:0; line-height:0%; font-size:1px; overflow:hidden; height:1px; width:100px; position:absolute; top:-30px; z-index:10000; background-repeat:no-repeat; display:none; background-color:#456c43;  cursor:pointer; border:1px solid #eeeeee; border-left:0; -moz-box-shadow: 0px 0px 2px #666; -webkit-box-shadow: 0px 0px 2px #666; box-shadow: 0px 0px 2px #666;  -moz-border-radius:1px; border-radius:1px; -webkit-border-radius:1px; }.jstree .jstree-real-checkbox { display:none; } .jstree-themeroller .ui-icon { overflow:visible; } .jstree-themeroller a { padding:0 2px; } .jstree-themeroller .jstree-no-icon { display:none; }.jstree .jstree-wholerow-real { position:relative; z-index:1; } .jstree .jstree-wholerow-real li { cursor:pointer; } .jstree .jstree-wholerow-real a { border-left-color:transparent !important; border-right-color:transparent !important; } .jstree .jstree-wholerow { position:relative; z-index:0; height:0; } .jstree .jstree-wholerow ul, .jstree .jstree-wholerow li { width:100%; } .jstree .jstree-wholerow, .jstree .jstree-wholerow ul, .jstree .jstree-wholerow li, .jstree .jstree-wholerow a { margin:0 !important; padding:0 !important; } .jstree .jstree-wholerow, .jstree .jstree-wholerow ul, .jstree .jstree-wholerow li { background:transparent !important; }.jstree .jstree-wholerow ins, .jstree .jstree-wholerow span, .jstree .jstree-wholerow input { display:none !important; }.jstree .jstree-wholerow a, .jstree .jstree-wholerow a:hover { text-indent:-9999px; !important; width:100%; padding:0 !important; border-right-width:0px !important; border-left-width:0px !important; } .jstree .jstree-wholerow-span { position:absolute; left:0; margin:0px; padding:0; height:18px; border-width:0; padding:0; z-index:0; }</style><link type="image/x-icon" rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABj0lEQVQ4jZ2TS0sCURiGzz+wHxD+gFa6DZeCgrPM/UALcScuQnDTpq3iNiiJaCXpJkwiKYsuUGiUKAzROASJ5TjqMF7m9rYwR4dxLHrhLA6c7zkfz3cOIYQQABEALP4eAUCEzBX/NzT5oZmiNQpQywko+SCUfBBqOQGtUVgEYMn8TuerkHM+jPdWFy4554POV00EAyCOGHSyLttiYx2uQX1+NwMUTUSJ8aP0sg7xNGBqV2/eQjnfNAB9L4WOMwq9O5gBmFYKxboHtY8dW1vqwwH6Xgq8IwzeEYYUy8wAJcaPm9cNZAqX2E5lbSH9QNIAdJzRCWAoN1Gse/D2tQ8AyJ09wkXFcXFftwDGJ08GgHeEoXFtEEEqo1j3QJDKxsFKjcOKOwR6axdCT5r56A5MAOWamXXwKV6ZbqvUOLioOFbcISTTE6ka17Z2MHWwSKDQk+Ci4kgfT+Cjozurg/kpDOWmrcCpg44zapkCq2gimFYKiiYuBUw9SLHM9B0IBAD9a5V9TD/S8qmWhAVAE0LIN/G4eAE/yhw/AAAAAElFTkSuQmCC"></head>
+<body id="mainbody" data-theme="0" class="systemmenu  language_en prtg-events-container sensor-body page-initialized" data-new-gr-c-s-check-loaded="8.891.0" data-gr-ext-installed=""><div style="display: none;" id="lightningjs-usabilla_live"><div><iframe id="lightningjs-frame-usabilla_live" frameborder="0"></iframe></div></div>
+    <!--
+//        You can use this file to modify the appearance of the PRTG web interface
+//        as described in https://kb.paessler.com/en/topic/33
+//        
+//        Please note that you are using an unsupported and deprecated feature. 
+//        Your changes will be broken or removed with future PRTG updates.
+//        
+//        If you modify this file, PLEASE LET US KNOW what you're changing and why!
+//        Just drop an email to support@paessler.com and help us understand your 
+//        needs. Thank you!       
+-->
+
+
+<header class="header js-header">
+    <div class="menu-wrapper prtg-plugin-initialized" data-plugin="main-menu-handlers">
+        <button class="header_menu-icon js-menuIcon glyph-menu5"></button>
+        <div id="crumblersensorstats" class="header_sensorstats prtg-plugin-initialized" data-plugin="crumblerSensorStats">
+            
+<div class="statusinfo alert" title="Current Alarm Count" style="display: none;">
+    <a id="new_alarms" href="https://127.0.0.1/alarms.htm?filter_status=5&amp;filter_status=4&amp;filter_status=10&amp;filter_status=13&amp;filter_status=14" style="opacity: 1;">
+        <span class="text">New Alarms</span>
+        <span class="counter">0</span>
+    </a>
+</div>
+
+<div class="statusinfo message" title="Number of new log file entries since last login">
+    <a id="new_message" href="https://127.0.0.1/log.htm">
+        <span class="text">New Log Entries</span>
+        <span class="counter">3</span>
+    </a>
+</div>
+
+<div class="statusinfo newtickets display0" title="Number of updated Tickets" style="display: none;">
+    <a href="https://127.0.0.1/tickets.htm?filter_user=100&amp;filter_status=1">
+        <span class="text">Updated Tickets</span>
+        <span class="counter">0</span>
+    </a>
+</div>
+
+<div class="spacing"></div>
+
+<div class="statusinfo downsens" title="0x Down" style="display: none;">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=5">
+        <span class="icon sensr"></span>
+        <span class="counter">0</span>
+    </a>
+</div>
+
+<div class="statusinfo partialdownsens display0" title="x Down (Partial)" style="display: none;">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=14">
+        <span class="icon sensq"></span>
+        <span class="counter"></span>
+    </a>
+</div>
+
+<div class="statusinfo downacksens display0" title="x Down (Acknowledged)" style="display: none;">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=13">
+        <span class="icon senso"></span>
+        <span class="counter"></span>
+    </a>
+</div>
+
+<div class="statusinfo warnsens display20" title="1x Warning">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=4">
+        <span class="icon sensy"></span>
+        <span class="counter">1</span>
+    </a>
+</div>
+
+<div class="statusinfo upsens display40" title="6x Up">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=2&amp;filter_status=3">
+        <span class="icon sensg"></span>
+        <span class="counter">6</span>
+    </a>
+</div>
+
+
+<div class="statusinfo pausedsens display0" title="x Paused" style="display: none;">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=7&amp;filter_status=8&amp;filter_status=9&amp;filter_status=11&amp;filter_status=12">
+        <span class="icon sensb"></span>
+        <span class="counter"></span>
+    </a>
+</div>
+
+<div class="statusinfo unusualsens display0" title="x Unusual" style="display: none;">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=10">
+        <span class="icon sensp"></span>
+        <span class="counter"></span>
+    </a>
+</div>
+
+<div class="statusinfo undefinedsens display10" title="x Unknown" style="display: none;">
+    <a href="https://127.0.0.1/sensors.htm?id=0&amp;filter_status=0&amp;filter_status=6&amp;filter_status=1">
+        <span class="icon sensx"></span>
+        <span class="counter"></span>
+    </a>
+</div>
+
+
+
+
+
+        </div>
+        
+
+
+
+
+        <div id="quickbar" class="header_quickbar">
+            <form class="header_searchForm" onsubmit="_Prtg.Hjax.loadLink('/search.htm?searchtext='+encodeURIComponent($(this).find('#searchtext').val())); return false;" method="get" id="searchform">
+                <input tabindex="1" id="searchtext" class="searchstring" data-trigger="manual" type="text" placeholder="Search..." name="searchtext">
+                <label class="glyph-search2" for="searchtext"></label>
+            </form>
+            
+
+
+
+
+            <div class="header-logout">
+                <a class="glyph-off logout" href="https://127.0.0.1/index.htm?logout=1" data-placement="left" title="Log out"></a>
+                <div class=" inactivitylogout hide" data-plugin="activity" data-loggedout-text=" You were automatically logged out after a certain time of inactivity." title="After a certain time of inactivity, you will be automatically logged out."></div>
+            </div>
+        </div>
+        <nav id="header_menu" class="header_menu">
+            
+<ul id="main_menu" class="menu">
+  <li><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+    <a class="homeicon" href="https://127.0.0.1/home">Home</a>
+    <ul style="top: 30px; margin-top: 0px; margin-left: 0px;">
+      <li class="menudivider"><a href="https://127.0.0.1/mapdashboard.htm?id=2035">Sample Dashboard</a></li>
+
+      <li style="display:none;">
+        Switch Cluster Node<span class="ui-icon ui-icon-carat-1-e"></span>
+          
+      </li>
+      <li class="menudivider">
+        <a href="https://127.0.0.1/welcome.htm">Welcome to PRTG</a>
+      </li>
+      <li onclick="_Prtg.Contextmenu.makeThisMyHomepage();return false;" style="">
+        Make This My Home Page
+      </li>
+    </ul>
+  </li>
+  <li id="devicesmenuitem"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/group.htm?id=0&amp;tabid=1">Devices</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/group.htm?id=0&amp;tabid=1">All</a></li>
+<li><a href="https://127.0.0.1/devices.htm?filter_favorite=1">Favorite Devices</a></li>
+<li><a href="https://127.0.0.1/devices.htm">Device List</a></li>
+<li><a href="https://127.0.0.1/dependencies.htm?id=0">Dependencies</a></li>
+<li><a href="#" class="nohjax hideforreadonlyuser" onclick="_Prtg.objectTools.addObject0('group', {preselect:1});return false;">Add Group</a></li>
+<li><a href="#" class="nohjax hideforreadonlyuser" onclick="_Prtg.objectTools.addObject0('autodiscovery', {preselect:1});return false;">Add Auto-Discovery Group</a></li>
+<li><a href="#" class="nohjax hideforreadonlyuser" onclick="_Prtg.objectTools.addObject0('device', {preselect:1});return false;">Add Device</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/libraries.htm">Libraries</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/libraries.htm">All</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/addlibrary.htm?id=new&amp;target=root" class="hideforreadonlyuser">Add Library</a></li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span>Select Library <span class="ui-icon ui-icon-carat-1-e"></span>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a id="715" href="https://127.0.0.1/library.htm?id=715">All bandwidth sensors</a></li>
+<li><a id="718" href="https://127.0.0.1/library.htm?id=718">All CPU load sensors</a></li>
+<li><a id="716" href="https://127.0.0.1/library.htm?id=716">All disk space sensors</a></li>
+<li><a id="717" href="https://127.0.0.1/library.htm?id=717">All memory sensors</a></li>
+<li><a id="710" href="https://127.0.0.1/library.htm?id=710">All sensors grouped by status</a></li>
+<li><a id="712" href="https://127.0.0.1/library.htm?id=712">All VMware sensors</a></li>
+<li><a id="719" href="https://127.0.0.1/library.htm?id=719">Sensors grouped by priority</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="sensorsmenuitem" class=""><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/sensors.htm" class="">Sensors</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/sensors.htm">All</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/addsensor0.htm" class="hideforreadonlyuser">Add Sensor</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/sensors.htm?filter_favorite=1">Favorite Sensors</a></li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm">Top 10 Lists  <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/top10.htm">All Sensors</a></li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm?id=1">Local Probe<span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm?id=50">Network Discovery<span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/top10.htm?id=53">Network Infrastruc...</a></li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm?id=54">Windows<span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul><li><a href="https://127.0.0.1/top10.htm?id=65">Clients</a></li>
+<li><a href="https://127.0.0.1/top10.htm?id=64">Servers</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm?id=57">Virtual Systems<span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul><li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm?id=58">VMware<span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul><li><a href="https://127.0.0.1/top10.htm?id=59">VMware Hosts</a></li>
+<li><a href="https://127.0.0.1/top10.htm?id=60">VMware vCenter Ser...</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/top10.htm?id=61">Hyper-V<span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul><li><a href="https://127.0.0.1/top10.htm?id=62">Hyper-V Hosts</a></li>
+<li><a href="https://127.0.0.1/top10.htm?id=63">Hyper-V Virtual Ma...</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://127.0.0.1/top10.htm?id=55">Linux / macOS / Unix</a></li>
+<li><a href="https://127.0.0.1/top10.htm?id=56">Printers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">By Current Value  <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">Fastest Value  <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_type=ping&amp;display=101&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Ping</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_type=port&amp;display=102&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Port</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_tags=@tag(httpsensor)&amp;display=103&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Webpages</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_type=pop3&amp;filter_type=imap&amp;filter_type=smtp&amp;display=104&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">IMAP/POP3/SMTP</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_type=ftp&amp;display=105&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">FTP</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">Slowest Value  <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_type=ping&amp;display=201&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Ping</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_type=port&amp;display=202&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Port</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_tags=@tag(httpsensor)&amp;display=203&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Webpages</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_type=pop3&amp;filter_type=imap&amp;filter_type=smtp&amp;display=204&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">IMAP/POP3/SMTP</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_type=ftp&amp;display=205&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">FTP</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">Highest Value  <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_tags=@tag(bandwidthsensor)&amp;display=306&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Bandwidth</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_tags=@tag(cpuloadsensor)&amp;display=307&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">CPU</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_tags=@tag(diskspacesensor)&amp;display=308&amp;filter_lastvalue=@below(10100)&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Disk</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_tags=@tag(memorysensor)&amp;display=309&amp;filter_lastvalue=@below(10100)&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Memory</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">Lowest Value <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_tags=@tag(bandwidthsensor)&amp;display=406&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Bandwidth</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=lastvalue&amp;filter_tags=@tag(cpuloadsensor)&amp;display=407&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">CPU</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_tags=@tag(diskspacesensor)&amp;display=408&amp;filter_lastvalue=@below(10100)&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Disk</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=-lastvalue&amp;filter_tags=@tag(memorysensor)&amp;display=409&amp;filter_lastvalue=@below(10100)&amp;filter_status=3&amp;filter_status=13&amp;filter_status=14&amp;filter_status=4&amp;filter_status=10">Memory</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">By Current Status <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?filter_status=3">Up</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/sensors.htm?filter_status=4">Warning</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_status=5">Down</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/sensors.htm?filter_status=13">Down (Acknowledged)</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_status=10">Unusual</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_status=7&amp;filter_status=9&amp;filter_status=8&amp;filter_status=12&amp;filter_status=11">Paused</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_status=1&amp;filter_status=2&amp;filter_status=0">Unknown</a></li>
+</ul>
+</li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">By Uptime/Downtime <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?sortby=uptime&amp;columns=group,device,sensor,status,message,lastvalue,uptime,uptimetime,downtime,downtimetime">Best Uptime (%)</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=uptimetime&amp;columns=group,device,sensor,status,message,lastvalue,uptime,uptimetime,downtime,downtimetime">Highest Uptime (Time)</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=downtime&amp;columns=group,device,sensor,status,message,lastvalue,uptime,uptimetime,downtime,downtimetime">Worst Downtime (%)</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?sortby=downtimetime&amp;columns=group,device,sensor,status,message,lastvalue,uptime,uptimetime,downtime,downtimetime">Highest Downtime (Time)</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">By Type <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?filter_type=commonsaas">Common SaaS</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_type=corestate">Core Health</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_type=corestateautonomous">Core Health (Autonomous)</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_type=http">HTTP</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_type=probestate">Probe Health</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_type=systemstate">System Health</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_type=wmidiskspace">WMI Free Disk Space (Multi Disk)</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">By Tag <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(autonomous)">autonomous</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(commonsaas)">commonsaas</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(corehealthsensor)">corehealthsensor</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(diskspacesensor)">diskspacesensor</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(httpsensor)">httpsensor</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(probehealthsensor)">probehealthsensor</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(saas)">saas</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(systemhealthsensor)">systemhealthsensor</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_tags=@tag(wmidiskspacesensor)">wmidiskspacesensor</a></li>
+</ul>
+</li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false">By Performance Impact <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensors.htm?filter_size=5">Very High</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_size=4">High</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_size=3">Medium</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_size=2">Low</a></li>
+<li><a href="https://127.0.0.1/sensors.htm?filter_size=1">Very Low</a></li>
+</ul>
+</li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/sensorxref.htm">Cross Reference <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/sensorxref.htm">All Sensors</a></li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span>By Type <span class="ui-icon ui-icon-carat-1-e"></span>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensorxref.htm?filter_type=commonsaas">Common SaaS</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_type=corestate">Core Health</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_type=corestateautonomous">Core Health (Autonomous)</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_type=http">HTTP</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_type=probestate">Probe Health</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_type=systemstate">System Health</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_type=wmidiskspace">WMI Free Disk Space (Multi Disk)</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span>By Tag <span class="ui-icon ui-icon-carat-1-e"></span>
+<ul style="top: 0px; margin-top: -292px; margin-left: 0px;"><li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(autonomous)">autonomous</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(commonsaas)">commonsaas</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(corehealthsensor)">corehealthsensor</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(diskspacesensor)">diskspacesensor</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(httpsensor)">httpsensor</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(probehealthsensor)">probehealthsensor</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(saas)">saas</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(systemhealthsensor)">systemhealthsensor</a></li>
+<li><a href="https://127.0.0.1/sensorxref.htm?filter_tags=@tag(wmidiskspacesensor)">wmidiskspacesensor</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://127.0.0.1/historicdata.htm">View Historic Data</a></li>
+<li><a href="https://127.0.0.1/similarsensors.htm">Similar Sensors Overview</a></li>
+</ul>
+</li>
+<li id="alarmsmenuitem"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/alarms.htm?filter_status=5&amp;filter_status=4&amp;filter_status=10&amp;filter_status=13&amp;filter_status=14">Alarms</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/alarms.htm?filter_status=5&amp;filter_status=4&amp;filter_status=10&amp;filter_status=13&amp;filter_status=14">All</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/alarmsgauges.htm">Show as Gauges</a></li>
+<li><a href="https://127.0.0.1/alarms.htm?filter_status=5&amp;filter_status=13&amp;filter_status=14">Errors Only</a></li>
+<li><a href="https://127.0.0.1/alarms.htm?filter_status=4">Warnings Only</a></li>
+<li><a href="https://127.0.0.1/alarms.htm?filter_status=10">Unusuals Only</a></li>
+</ul>
+</li>
+<li class=""><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/maps.htm" class="">Maps</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/maps.htm">All</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/addmap.htm" class="hideforreadonlyuser">Add Map</a></li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span>Select Map <span class="ui-icon ui-icon-carat-1-e"></span>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a id="2001" href="https://127.0.0.1/map.htm?id=2001">Magic Map </a></li>
+<li><a id="2035" href="https://127.0.0.1/map.htm?id=2035">Sample Dashboard </a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class=""><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/reports.htm" class="">Reports</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/reports.htm">All</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/addreport.htm?id=new" class="hideforreadonlyuser">Add Report</a></li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span>Select Report <span class="ui-icon ui-icon-carat-1-e"></span>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a id="400" href="https://127.0.0.1/report.htm?id=400">Summary report for all sensors </a></li>
+<li><a id="415" href="https://127.0.0.1/report.htm?id=415">Top 100 Busy/Idle Processor Sensors </a></li>
+<li><a id="417" href="https://127.0.0.1/report.htm?id=417">Top 100 Fastest/Slowest HTTP Sensors </a></li>
+<li><a id="413" href="https://127.0.0.1/report.htm?id=413">Top 100 Fastest/Slowest Ping Sensors </a></li>
+<li><a id="416" href="https://127.0.0.1/report.htm?id=416">Top 100 Free/Full Disk Space Sensors </a></li>
+<li><a id="414" href="https://127.0.0.1/report.htm?id=414">Top 100 Most/Least Used Bandwidth Sensors </a></li>
+<li><a id="418" href="https://127.0.0.1/report.htm?id=418">Top 100 Most/Least Used Memory Sensors </a></li>
+<li><a id="412" href="https://127.0.0.1/report.htm?id=412">Top 100 Uptime/Downtime Report </a></li>
+</ul>
+</li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span>Configuration Reports <span class="ui-icon ui-icon-carat-1-e"></span>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/config_report_maps.htm" class="nohjax" target="_blank">Maps</a></li>
+<li><a href="https://127.0.0.1/config_report_reports.htm" class="nohjax" target="_blank">Reports</a></li>
+<li><a href="https://127.0.0.1/config_report_users.htm" class="nohjax" target="_blank">Users &amp; User Groups</a></li>
+<li><a href="https://127.0.0.1/config_report_systemconfig.htm" class="nohjax" target="_blank">System Configuration</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="logmenuitem"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/log.htm">Logs</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/log.htm">All</a></li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false" class="nohjax">Status Changes <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li class="menudivider"><a href="https://127.0.0.1/log.htm?filter_status=608&amp;filter_status=607&amp;filter_status=620">Up &amp; Down</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=620&amp;filter_status=608">Down</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=609">Warning</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=610">Unusual</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/log.htm?filter_status=607">Up</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=602&amp;filter_status=603&amp;filter_status=604&amp;filter_status=605&amp;filter_status=606">Paused/Resumed</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=619">Acknowledged Alarms</a></li>
+</ul>
+</li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="#" onclick="false" class="nohjax">System Events <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/log.htm?filter_status=14&amp;filter_status=612&amp;filter_status=613&amp;filter_status=614&amp;filter_status=4&amp;filter_status=5&amp;filter_status=12&amp;filter_status=701">Probe Related</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=801&amp;filter_status=802&amp;filter_status=803&amp;filter_status=804&amp;filter_status=805&amp;filter_status=806">Auto-Discovery Related</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=13">Notification Related</a></li>
+<li><a href="https://127.0.0.1/log.htm?filter_status=1&amp;filter_status=2&amp;filter_status=3&amp;filter_status=6&amp;filter_status=7&amp;filter_status=8&amp;filter_status=9&amp;filter_status=10&amp;filter_status=11">Status Message Related</a></li>
+</ul>
+</li>
+<li><a href="https://127.0.0.1/objecthistory.htm">Object History</a></li>
+</ul>
+</li>
+<li id="todomenuitem"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/tickets.htm?filter_user=100&amp;filter_status=1">Tickets</a>
+<ul style="top: 30px; margin-top: 0px; margin-left: 0px;"><li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/tickets.htm?filter_user=100&amp;filter_status=1">My Tickets <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/tickets.htm?filter_user=100&amp;filter_status=1">Open</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_user=100&amp;filter_status=2">Resolved</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_user=100&amp;filter_status=3">Closed</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_user=100">All</a></li>
+</ul>
+</li>
+<li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/tickets.htm?filter_status=1">All Tickets <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><a href="https://127.0.0.1/tickets.htm?filter_status=1">Open</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_status=2">Resolved</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_status=3">Closed</a></li>
+<li><a href="https://127.0.0.1/tickets.htm">All</a></li>
+</ul>
+</li>
+<li class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/tickets.htm?filter_type=1&amp;filter_status=1">ToDo Tickets <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: 0px;"><li><span class="ui-icon header_menu-trigger js-menuIcon"></span><a href="https://127.0.0.1/tickets.htm?filter_type=1&amp;filter_status=1">Open <span class="ui-icon ui-icon-carat-1-e"></span></a>
+<ul style="top: 0px; margin-top: 0px; margin-left: -276px; z-index: 1;"><li><a href="https://127.0.0.1/tickets.htm?filter_type=1&amp;filter_status=1">All</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_code=708&amp;filter_status=1&amp;filter_type=1">Report Related</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_code=805&amp;filter_status=1&amp;filter_type=1">Auto-Discovery Related</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_code=701&amp;filter_code=710&amp;filter_status=1&amp;filter_type=1">Probe Related</a></li>
+<li class="menudivider"><a href="https://127.0.0.1/tickets.htm?filter_code=704&amp;filter_code=705&amp;filter_code=707&amp;filter_code=709&amp;filter_code=711&amp;filter_status=1&amp;filter_type=1">System Errors</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_code=706&amp;filter_status=1&amp;filter_type=1">New Software Version</a></li>
+</ul>
+</li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_type=1&amp;filter_status=2">Resolved</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_type=1&amp;filter_status=3">Closed</a></li>
+<li><a href="https://127.0.0.1/tickets.htm?filter_type=1">All</a></li>
+</ul>
+</li>
+<li><a href="#" class="nohjax hideforreadonlyuser" onclick="_Prtg.objectTools.ticketAdd0({preselect:0});return false;">Add Ticket</a></li>
+</ul>
+</li>
+
+  <li style=""><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+    <a href="https://127.0.0.1/setup.htm">Setup</a>
+    <ul style="top: 30px; margin-top: 0px; margin-left: -43.3167px; z-index: 1;">
+      <li class="menudivider">
+        <a href="https://127.0.0.1/setup.htm">Overview</a>
+      </li>
+      <li style=""><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+        <a href="https://127.0.0.1/myaccount.htm">Account Settings<span class="ui-icon ui-icon-carat-1-e"></span></a>
+        <ul style="top: 0px; margin-top: 0px; margin-left: -331px; z-index: 1;">
+          <li class="menudivider">
+            <a href="https://127.0.0.1/myaccount.htm">My Account</a>
+          </li>
+          <li style="">
+            <a href="https://127.0.0.1/myaccount.htm?tabid=2">Notification Templates</a>
+          </li>
+          <li style="">
+            <a href="https://127.0.0.1/myaccount.htm?tabid=4">Notification Contacts</a>
+          </li>
+          <li style="">
+            <a href="https://127.0.0.1/myaccount.htm?tabid=3">Schedules</a>
+          </li>
+        </ul>
+      </li>
+      <li style=""><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+        <a href="https://127.0.0.1/systemsetup.htm">System Administration<span class="ui-icon ui-icon-carat-1-e"></span></a>
+        <ul style="top: 0px; margin-top: 0px; margin-left: -318px; z-index: 1;">
+          <li class="menudivider" style="display:none;">
+            <a href="https://app.my-prtg.com/" target="=_blank">Manage Subscription</a>
+          </li>
+          <li class="menudivider">
+            <a href="https://127.0.0.1/systemsetup.htm">User Interface</a>
+          </li>
+          <li>
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=2">Monitoring</a>
+          </li>
+          <li style="">
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=3">Notification Delivery</a>
+          </li>
+          <li>
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=4">Core &amp; Probes</a>
+          </li>
+          <li>
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=5">User Accounts</a>
+          </li>
+          <li>
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=6" class="menudivider">User Groups</a>
+          </li>
+          <li>
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=7">Administrative Tools</a>
+          </li>
+          <li style="display:none;">
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=8">Cluster</a>
+          </li>
+          <li style="  ">
+            <a href="https://127.0.0.1/systemsetup.htm?tabid=9">Single Sign-On</a>
+          </li>
+        </ul>
+      </li>
+      <li style=" ">
+        <a href="https://127.0.0.1/status.htm">PRTG Status</a>
+        </li><li style=" display:none;"><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+          <a href="https://127.0.0.1/status.htm">PRTG Status<span class="ui-icon ui-icon-carat-1-e"></span></a>
+          <ul style="top: 0px; margin-top: 0px; margin-left: 0px;">
+            <li>
+              <a href="https://127.0.0.1/status.htm">System Status</a>
+            </li>
+            <li style="display:none;">
+              <a href="https://127.0.0.1/status.htm?tabid=2">Cluster Status</a>
+            </li>
+          </ul>
+        </li>
+        <li style=" ">
+          <a class="nohjax" href="https://127.0.0.1/licensing.htm?tabid=1">License Information</a>
+        </li>
+        <li style=" "><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+          <a href="https://127.0.0.1/autoupdate.htm">Auto-Update<span class="ui-icon ui-icon-carat-1-e"></span></a>
+          <ul style="top: 0px; margin-top: 0px; margin-left: -288px; z-index: 1;">
+            <li>
+              <a class="nohjax" href="https://127.0.0.1/autoupdate.htm?tabid=1">Status</a>
+            </li>
+            <li>
+              <a class="nohjax" href="https://127.0.0.1/autoupdate.htm?tabid=3">Settings</a>
+            </li>
+          </ul>
+        </li>
+        <li style="" class="menudivider"><span class="ui-icon header_menu-trigger js-menuIcon"></span>
+          <a href="https://127.0.0.1/downloads.htm">Optional Downloads<span class="ui-icon ui-icon-carat-1-e"></span></a>
+          <ul style="top: 0px; margin-top: 0px; margin-left: -332px; z-index: 1;">
+            <li>
+              <a href="https://127.0.0.1/downloads.htm?tabid=1">PRTG Apps</a>
+            </li>
+            <li class="">
+              <a href="https://127.0.0.1/downloads.htm?tabid=2">PRTG Desktop</a>
+            </li>
+            <li style=" ">
+              <a href="https://127.0.0.1/downloads.htm?tabid=3">Remote Probe Installer</a>
+            </li>
+          </ul>
+        </li>
+        <li style="">
+          <a href="https://127.0.0.1/api.htm">PRTG API</a>
+        </li>
+        <li>
+          <a href="https://127.0.0.1/help.htm">Help and Support Center</a>
+        </li>
+        <li style=" display:none;">
+          <a class="nohjax" href="https://127.0.0.1/licensing.htm?tabid=3">Enter License Key</a>
+        </li>
+        <li style="">
+          <a onclick="_Prtg.objectTools.sendFeedback('/sendfeedback.htm?errorurl='+window.location.pathname,'');return false;">Contact Support</a>
+        </li>
+      
+    </ul>
+  </li>
+</ul>
+
+        </nav>
+    </div>
+</header>
+<div class="header-spacer" style="height: 65px;">
+    &nbsp;
+</div>
+<div id="header_breadcrumbs" class="headerBreadcrumbs"><div class="breadcrumbs prtg-plugin-initialized" data-plugin="prtg-breadcrumbs" data-child="true"><ul class="crumbler"><li><a href="https://127.0.0.1/home"><i class="breadcrumbshome glyph-home4" title="Home"></i></a></li><li class="" data-breadid="0"><span class="breadcrumbdivider"></span><a href="https://127.0.0.1/group.htm?id=0">Devices</a></li><li class="breadcrumbmenu" data-breadid="1"><span class="breadcrumbdivider breadcrumbdivideractive"></span><a class="probenodemenu nopopup" data-id="1" href="https://127.0.0.1/probenode.htm?id=1">Local Probe</a><span class="icon-triangle-1-s icon-gray breadcrumbsubmenuopener"></span></li><li class="breadcrumbmenu" data-breadid="50"><span class="breadcrumbdivider breadcrumbdivideractive"></span><a class="groupmenu nopopup" data-id="50" href="https://127.0.0.1/group.htm?id=50">Network Discovery</a><span class="icon-triangle-1-s icon-gray breadcrumbsubmenuopener"></span></li><li class="breadcrumbmenu" data-breadid="53"><span class="breadcrumbdivider breadcrumbdivideractive"></span><a class="groupmenu nopopup" data-id="53" href="https://127.0.0.1/group.htm?id=53">Network Infrast...</a><span class="icon-triangle-1-s icon-gray breadcrumbsubmenuopener"></span></li><li class="breadcrumbmenu" data-breadid="46"><span class="breadcrumbdivider breadcrumbdivideractive"></span><a class="devicemenu nopopup" data-id="46" href="https://127.0.0.1/device.htm?id=46">Internet</a><span class="icon-triangle-1-s icon-gray breadcrumbsubmenuopener"></span></li><li class="breadcrumbmenu" data-breadid="2002"><span class="breadcrumbdivider breadcrumbdivideractive"></span><a href="https://127.0.0.1/sensor.htm?id=2002" class="sensormenu nopopup breadcrumbmenu " data-id="2002">HTTP</a><span class="icon-triangle-1-s icon-gray breadcrumbsubmenuopener"></span></li></ul></div><div class="breadcrumbsubmenu" style="top: 22px; left: 88.5333px;"><p class="breadcrumbsubmenusearchbox"><span class="icon-search icon-gray"></span><input type="text" class="breadcrumbsubmenusearchboxinput"></p><ul><li class="odd breadcrumbsubmenuselected" objid="1"><a dependency="0" thisid="1" class="probemenu isnotpaused  isnotfavorite fixed localprobe" id="1" href="https://127.0.0.1/probenode.htm?id=1">Monitored via Local Probe (Local Probe)  »</a></li><li objid="1026"><a dependency="0" thisid="1026" class="devicemenu isnotpaused  isnotfavorite fixed" style="background-image:url(/icons/devices/A_Server_1.png?svg)" id="1026" href="https://127.0.0.1/device.htm?id=1026">PRTG Core Server </a></li></ul></div><div class="breadcrumbsubmenu" style="top: 22px; left: 314.5px;"><p class="breadcrumbsubmenusearchbox"><span class="icon-search icon-gray"></span><input type="text" class="breadcrumbsubmenusearchboxinput"></p><ul><li class="odd breadcrumbsubmenuselected" objid="53"><a dependency="50" thisid="53" class="groupmenu isnotpaused  isnotfavorite isnotautodiscoverable  localprobe" id="53" href="https://127.0.0.1/group.htm?id=53">Network Infrastructure  »</a></li><li objid="54"><a dependency="50" thisid="54" class="groupmenu isnotpaused  isnotfavorite isnotautodiscoverable  localprobe" id="54" href="https://127.0.0.1/group.htm?id=54">Windows  »</a></li><li class="odd" objid="57"><a dependency="50" thisid="57" class="groupmenu isnotpaused  isnotfavorite isnotautodiscoverable  localprobe" id="57" href="https://127.0.0.1/group.htm?id=57">Virtual Systems  »</a></li><li objid="55"><a dependency="50" thisid="55" class="groupmenu isnotpaused  isnotfavorite isnotautodiscoverable  localprobe" id="55" href="https://127.0.0.1/group.htm?id=55">Linux / macOS / Unix  »</a></li><li class="odd" objid="56"><a dependency="50" thisid="56" class="groupmenu isnotpaused  isnotfavorite isnotautodiscoverable  localprobe" id="56" href="https://127.0.0.1/group.htm?id=56">Printers  »</a></li></ul></div><div class="breadcrumbsubmenu" style="top: 22px; left: 426.917px;"><p class="breadcrumbsubmenusearchbox"><span class="icon-search icon-gray"></span><input type="text" class="breadcrumbsubmenusearchboxinput"></p><ul><li class="odd breadcrumbsubmenuselected" objid="46"><a dependency="53" thisid="46" class="devicemenu isnotpaused  isnotfavorite localprobe" style="background-image:url(/icons/devices/A_Server_1.png?svg)" id="46" href="https://127.0.0.1/device.htm?id=46">Internet </a></li></ul></div><div class="breadcrumbsubmenu" style="top: 22px; left: 484.45px;"><p class="breadcrumbsubmenusearchbox"><span class="icon-search icon-gray"></span><input type="text" class="breadcrumbsubmenusearchboxinput"></p><ul><li class="odd breadcrumbsubmenuselected" objid="2002"><a class="sensorid2002 sensg sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></li></ul></div><div class="breadcrumbsubmenu" style="top: 22px; left: 170.25px;"><p class="breadcrumbsubmenusearchbox"><span class="icon-search icon-gray"></span><input type="text" class="breadcrumbsubmenusearchboxinput"></p><ul><li class="odd" objid="40"><a dependency="1" thisid="40" class="devicemenu isnotpaused  isnotfavorite fixed localprobe" style="background-image:url(/icons/devices/A_Server_1.png?svg)" id="40" href="https://127.0.0.1/device.htm?id=40">Probe Device </a></li><li objid="50" class="breadcrumbsubmenuselected"><a dependency="1" thisid="50" class="groupmenu isnotpaused  isnotfavorite isnotautodiscoverable  localprobe" id="50" href="https://127.0.0.1/group.htm?id=50">Network Discovery  »</a></li></ul></div></div>
+<div class="js-timezoneMismatch browsercheck" style="display:none;">
+  <div class="browsercheck_inner">
+    <button title="Close" class="js-timezone-ignore ignore glyph-cancel-1"></button>
+    <div>
+    <h2>
+      Different Time Zones Detected
+    </h2>
+    <p class="js-timezone-textreplace">The time zone in your settings 
+(${user_set_timezone}) differs from the time zone determined by your 
+browser (${browser_set_timezone}). Time-related data in PRTG may be 
+different than expected. This can affect toplists or live graphs, for 
+example. </p>
+    <p style=""><a href="https://127.0.0.1/myaccount.htm?tabid=1" class="button btngrey">Change Setting</a></p>
+    </div>
+  </div>
+</div>
+
+<div id="container" class="prtg-events-container"><div>
+
+
+
+<div id="main" class="sensor-main-container bordercolor_sensg bgcolor_sensg" data-title="HTTP | Sensor Details" data-contexthelpshow="false">
+	<dummy class="prtg-plugin-initialized" data-plugin="status">
+		
+
+<h1 status="sensorstatusbig,class,sitecaption sensorheader " class="sitecaption sensorheader sensorstatusmessagesensg">
+    <div data-id="2002" status="sensorstatus,class,bigsensoricon " class="bigsensoricon bigsensoriconsensg sensormenu sensg isnotpaused  isnotfavorite"></div>
+    <i>Sensor</i>
+  	<dummy data-id="2002" status="name;menuclass,class" class="sensormenu sensg isnotpaused  isnotfavorite">HTTP</dummy>
+  	<div id="objectpriority" title="Click to set priority and/or favorite status">
+      <dummy class="favorite" status="favorite"><span class="objectisnotfavorite icon-gray ui-icon ui-icon-flag" title="Flag/Unflag as Favorite" id="fav-2002" onclick="_Prtg.objectTools.faveObject.call(this,2002,'toggle');return false;"></span></dummy> <dummy status="priority"><span class="priority" title="Set Priority"><nobr><a class="favstar" href="#" onclick="return _Prtg.objectTools.setObjectPriority.call(this,2002,'1')"></a><a class="favstar" href="#" onclick="return _Prtg.objectTools.setObjectPriority.call(this,2002,'2')"></a><a class="favstar" href="#" onclick="return _Prtg.objectTools.setObjectPriority.call(this,2002,'3')"></a><a class="favempty" href="#" onclick="return _Prtg.objectTools.setObjectPriority.call(this,2002,'4')"></a><a class="favempty" href="#" onclick="return _Prtg.objectTools.setObjectPriority.call(this,2002,'5')"></a></nobr></span></dummy>
+  	</div>
+
+    <div status="sensorstatusbig,class,textmessage sensorstatusmessage " class="textmessage sensorstatusmessage sensorstatusmessagesensg">
+        <strong status="message"><div class="status">OK<div class="moreicon"></div></div></strong>
+    </div>
+</h1>
+
+<div status="menuclass,class,buttonbox " class="buttonbox sensormenu sensg isnotpaused  isnotfavorite">
+  <a onclick="_Prtg.objectTools.acknowledgeError.call(this,2002);return false;" class="acknow" href="#" data-placement="bottom" style="" title="Acknowledge Indefinitely"><i class="icon-dark icon-check"></i></a>
+  <dummy status="paused"><a data-placement="bottom" class="hideforreadonlyuser pause" title="Pause" href="#" onclick="var self=this; _Prtg.objectTools.pauseWithComment.call(this,'2002',0);return false;"><i class="icon-pause icon-dark"></i></a></dummy>
+  <a id="addticketbutton" href="#" style="" onclick="_Prtg.objectTools.ticketAdd.call(this, 'new',2002);return false;" data-placement="bottom" title="Add Ticket"><i class="icon-dark icon-ticket-new"></i></a>
+<a href="mailto:?subject=Link%20to%20%22HTTP%20|%20Sensor%20Details%22%20[PRTG Network Monitor (DESKTOP-H9EJ7RL)]&amp;body=Please%20look%20at%20this%20URL:%20https:%2F%2F127.0.0.1%2Fsensor.htm?id=2002%26_=1638571067154" data-placement="bottom" title="Send Link by Email"><i class="icon-dark icon-mail-closed"></i></a>
+
+  <a onclick="_Prtg.objectTools.checkObjectNow.call(this,2002);return false;" class="checknow" href="#" data-placement="bottom" style="" title="Scan Now"><i class="icon-dark glyph-arrows-cw"></i></a>
+  <a data-id="2002" href="#" status="menuclass,class,menulink systemmenu menuleft nopopup " class="menulink systemmenu menuleft nopopup sensormenu sensg isnotpaused  isnotfavorite"><i class="icon-dark icon-triangle-1-s"></i></a>
+</div>
+
+  </dummy>
+  <div class="prtg-tabs prtg-plugin-initialized" data-plugin="prtg-tabs">
+    <ul class="nav-tabs">
+      <li tabid="1" class="" data-refresh-related="#container">
+        <a href="https://127.0.0.1/controls/sensoroverview.htm?id=2002" class="nohjax">
+          <i class="glyph-gauge"></i>
+          <span class="text">Overview</span>
+        </a>
+      </li>
+      <li tabid="2">
+        <a href="https://127.0.0.1/controls/sensorgraph.htm?id=2002&amp;graphid=0&amp;columns=datetime,value_,coverage" class="nohjax">
+          <i class="glyph-feed"></i>
+          <span class="text">Live Data</span>
+        </a></li>
+      <li tabid="3">
+        <a href="https://127.0.0.1/controls/sensorgraph.htm?id=2002&amp;graphid=1&amp;columns=datetime,value_,coverage" class="nohjax">
+          <i class="number-icon">2</i>
+          <span class="text">days</span>
+        </a></li>
+      <li tabid="4" class="">
+        <a href="https://127.0.0.1/controls/sensorgraph.htm?id=2002&amp;graphid=2&amp;columns=datetime,value_,coverage" class="nohjax">
+          <i class="number-icon">30</i>
+          <span class="text">days</span>
+        </a></li>
+      <li tabid="5">
+        <a href="https://127.0.0.1/controls/sensorgraph.htm?id=2002&amp;graphid=3&amp;columns=datetime,value_,coverage" class="nohjax">
+          <i class="number-icon">365</i>
+          <span class="text">days</span>
+        </a></li>
+      <li tabid="20" style="display: none;">
+        <a href="https://127.0.0.1/controls/sensormessages.htm?id=2002&amp;udptype=" class="nohjax">
+      <i class="glyph-newspaper"></i>
+      <span class="text"></span>
+        </a></li>
+      <li tabid="6">
+        <a href="https://127.0.0.1/controls/historicsensordata.htm?id=2002" class="nohjax">
+          <i class="glyph-chart-area"></i>
+          <span class="text">Historic Data</span>
+        </a></li>
+      <li tabid="7" tab-name="sensor-log" class="tab-active">
+        <a href="https://127.0.0.1/controls/table.htm?id=2002&amp;tableid=messagetable&amp;content=messages&amp;columns=datetime,sensor,status,message&amp;sortby=date&amp;sortable=true&amp;links=true&amp;datepicker=true&amp;filter_drel=7days&amp;tabletitle=Log" class="nohjax">
+        <i class="glyph-list-alt"></i>
+        <span class="text">Log</span>
+        </a></li>
+      <li tabid="8" class="tab-spacing tab-dark">
+        <a href="https://127.0.0.1/controls/objectdata.htm?id=2002&amp;objecttype=sensor,aggregation" class="nohjax"><i class="glyph-cog"></i>
+          <span class="text">Settings</span>
+        </a></li>
+      <li tabid="9" class="tab-dark" tab-name="notifications">
+        <a href="https://127.0.0.1/controls/triggersandnotifications.htm?id=2002&amp;objecttype=sensor,aggregation" class="nohjax">
+          <i class="glyph-bell-alt"></i>
+          <span class="text">Notification Triggers</span>
+        </a></li>
+      <li tabid="10" class="tab-spacing tab-dark">
+        <a href="https://127.0.0.1/controls/comments.htm?id=2002" title="Comments" class="nohjax">
+        <i class="glyph-comment-empty"></i>
+        <span class="text">Comments</span>
+        </a></li>
+      <li tabid="11" class="tab-dark hideforreadonly" style="" title="History">
+      <a href="https://127.0.0.1/controls/history.htm?id=2002" class="nohjax">
+        <i class="glyph-document-history"></i>
+        <span class="text">History</span>
+      </a></li>
+    </ul>
+    <div class="tab-container sensor-log-tab-content"><div id="loadedcontent" class="prtg-events-container"><div class="prtg-plugin-initialized" data-plugin="prtg-table">
+<div class="table-wrapper" refreshurl="/controls/table.htm?refreshable=true&amp;tableid=messagetable&amp;content=messages&amp;columns=datetime%2Csensor%2Cstatus%2Cmessage&amp;sortby=date&amp;sortable=false&amp;links=true&amp;datepicker=true&amp;filter_drel=7days&amp;tabletitle=Log&amp;_=1638571067174&amp;start=0&amp;id=2002&amp;"><form id="form_messagetable" class="form-messages " callerid="form_messagetable">
+
+<div class="tabletitle">Log</div><div class="pagenavigation pagenavigation-header"><div class="itemcount"><span class="table_itemcount_selector">Items: <a href="#" class="reloadtablelink selected" data-reload="[{&quot;name&quot;:&quot;count&quot;,&quot;value&quot;:&quot;50&quot;}]">50</a><a href="#" class="reloadtablelink " data-reload="[{&quot;name&quot;:&quot;count&quot;,&quot;value&quot;:&quot;100&quot;}]">100</a><a href="#" class="reloadtablelink " data-reload="[{&quot;name&quot;:&quot;count&quot;,&quot;value&quot;:&quot;500&quot;}]">500</a><a href="#" class="reloadtablelink " data-reload="[{&quot;name&quot;:&quot;count&quot;,&quot;value&quot;:&quot;1000&quot;}]">1000</a></span>
+</div><div class="tableflyout filterpanel"><div class="buttons"><ul class="jd_menu"><li><span class="icon ui-icon ui-icon-carat-1-s"></span><span>Select Range</span><ul class="table_daterange_selector prtg-plugin-initialized" data-plugin="prtg-datetimequickrange" data-sfield="sdate" data-endfield="edate"><li><a href="#" class="reloadtablelink " range="0a" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;today&quot;}]">Today</a></li> <li><a href="#" class="reloadtablelink " range="1a" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;yesterday&quot;}]">Yesterday</a></li> <li><a href="#" class="reloadtablelink " range="7d" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;7days&quot;}]">7 days</a></li> <li><a href="#" class="reloadtablelink " range="30d" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;30days&quot;}]">30 days</a></li> <li><a href="#" class="reloadtablelink " range="6m" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;6months&quot;}]">6 months</a></li> <li><a href="#" class="reloadtablelink " range="12m" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;12months&quot;}]">12 months</a></li> <li><a href="#" class="reloadtablelink " range="80m" data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;name&quot;:&quot;filter_dstart&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_dend&quot;,&quot;value&quot;:&quot;&quot;},{&quot;name&quot;:&quot;filter_drel&quot;,&quot;value&quot;:&quot;eternity&quot;}]">Unlimited</a></li> </ul></li></ul>
+</div>
+<div class="filter-toggle"><a class="toggleFilterLink js-filterToggle js-datepicker-filter" href="#">Show Filters&nbsp;</a></div><div class="buttons"><span data-format="M/d/yyyy" class="table_datepicker_fromtodate"><label for="date-range-filter">Filter by date</label>
+<div class="datepicker"><input id="sdate" type="text" name="datepicker_dstart" class="table_datepicker_dstart orginal_input prtg-plugin-initialized" data-plugin="prtg-datetimepicker" data-timepicker="true" value="2021-11-27-00-00-00" style="display: none;"><input id="dp1638571067184" type="text" name="datepicker_dstart_picker" class="table_datepicker_dstart prtg-plugin-initializing prtg-plugin hasDatepicker" data-plugin="prtg-datetimepicker" data-timepicker="true" value="2021-11-27 00:00"><button type="button" class="ui-datepicker-trigger"></button></div>—<div class="datepicker"><input id="edate" type="text" name="datepicker_dend" class="table_datepicker_dend orginal_input prtg-plugin-initialized" data-plugin="prtg-datetimepicker" data-timepicker="true" value="2021-12-05-00-00-00" style="display: none;"><input id="dp1638571067185" type="text" name="datepicker_dend_picker" class="table_datepicker_dend prtg-plugin-initializing prtg-plugin hasDatepicker" data-plugin="prtg-datetimepicker" data-timepicker="true" value="2021-12-05 00:00"><button type="button" class="ui-datepicker-trigger"></button></div></span></div></div></div><table class=" table hoverable messages" id="table_messagetable" cellspacing="0">
+<thead class="headerswithlinks"><tr><th class="col-datetime">Date Time</th><th class="col-sensor">Sensor</th><th class="col-status">Status</th><th class="col-message">Message</th></tr></thead>
+
+<tfoot class="pagenavigation"><tr><th colspan="4"><span class="tablenavigation"><a href="#" class="reloadtablelink disabled arrow a_first_off "></a> <a href="#" class="reloadtablelink disabled arrow a_left_off "></a>  1 to 50 <a href="#" class="reloadtablelink arrow a_right_on " data-reload="[{&quot;name&quot;:&quot;start&quot;,&quot;value&quot;:&quot;50&quot;}]"></a> </span>&nbsp;<a class="tablezoomlink" title="Show table in new window" href="https://127.0.0.1/tablewithstyles.htm?refreshable=true&amp;tableid=messagetable&amp;content=messages&amp;columns=datetime%2Csensor%2Cstatus%2Cmessage&amp;sortby=date&amp;sortable=false&amp;links=true&amp;datepicker=true&amp;filter_drel=7days&amp;tabletitle=Log&amp;_=1638571067174&amp;start=0&amp;id=2002&amp;hidezoomlink=true&amp;count=500" target="_blank"><i class="glyph-popout"></i></a>&nbsp;<a class="tablezoomlink" title="View as XML (max. 500 items)" href="https://127.0.0.1/api/table.xml?content=messages&amp;columns=datetime%2Csensor%2Cstatus%2Cmessage%2Cobjid%2Cbaselink&amp;sortby=date&amp;datepicker=true&amp;filter_drel=7days&amp;tabletitle=Log&amp;_=1638571067174&amp;start=0&amp;id=2002" target="_blank"><i class="glyph-xml"></i></a></th></tr></tfoot>
+<tbody><tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/4/2021 7:37:30 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">444 msec<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 8:10:00 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:59:45 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:54:29 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:54:20 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">No data since 12/3/2021 7:50:09 PM<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:49:09 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:48:31 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">No data since 12/3/2021 7:35:23 PM<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:29:47 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:28:47 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Warning</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:17:47 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">480 msec<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:15:24 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:05:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 7:04:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Warning</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 6:50:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 6:50:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">267 msec<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 6:40:00 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 6:29:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 6:19:04 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 5:52:50 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 5:42:25 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 5:41:25 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Warning</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 5:25:25 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">465 msec<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 5:16:25 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 3:54:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 3:44:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 3:43:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Warning</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 3:09:15 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">434 msec<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:40:22 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:30:22 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:29:22 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Warning</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:29:19 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">No data since 12/3/2021 2:26:03 PM<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:09:05 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">2,248 msec<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:06:03 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:05:38 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 2:05:25 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">No data since 12/3/2021 1:31:08 PM<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 1:29:00 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 1:18:08 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 1:05:42 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 1:05:23 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 1:05:23 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">This sensor has not received data for 8 minutes 3 seconds.<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 12:54:00 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Notification Info</td><td class="col-message" data-th="Message"><div class="logmessage">State Trigger activated (Sensor ID: 2002 | Trigger Source ID: 0 | Trigger ID: 1)<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 12:43:20 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 12:01:44 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">625 msec<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 12:01:06 PM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">No data since 12/3/2021 10:22:10 AM<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 10:01:17 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Up</td><td class="col-message" data-th="Message"><div class="logmessage">7,416 msec<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 9:59:10 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 9:58:32 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">No data since 12/3/2021 9:02:29 AM<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 9:02:29 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Down</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+<tr class="odd"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 9:01:57 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Unknown</td><td class="col-message" data-th="Message"><div class="logmessage">This sensor has not received data for 5 minutes 25 seconds.<div class="moreicon"></div></div></td></tr>
+<tr class="even"><td class="col-datetime" data-th="Date Time"><nobr>12/3/2021 8:56:32 AM</nobr></td><td class="col-sensor" data-th="Sensor"><a class="sensormenu isnotpaused  isnotfavorite" id="2002" href="https://127.0.0.1/sensor.htm?id=2002">HTTP</a></td><td class="col-status" data-th="Status">Warning</td><td class="col-message" data-th="Message"><div class="logmessage">Host not found. This message indicates that the key (name, address, and so on) was not found. (socket error # 11001)<div class="moreicon"></div></div></td></tr>
+</tbody></table></form></div>
+
+</div></div></div>
+  </div>
+
+
+
+
+
+
+
+
+
+</div></div></div>
+
+    
+    
+<tct data-role="action" data-page="facelift-update" class="initialized">
+
+<div id="facelift-dialogcontent" class="js-facelift-dialogcontent" data-dialog-title="What’s New in PRTG" style="visibility:hidden">
+    <h1>Major UI Improvements</h1>
+
+    <div class="js-slider">
+        <div class="slide">
+            <p class="media-content">
+                <span>Welcome to the all-new web interface of PRTG! We 
+have tidied up PRTG and given it a cleaner look so you can find what you
+ need more easily.</span>
+            </p>
+            <p class="media-content bordered">
+                <span class="overlay-text">
+                    This PRTG version includes many improvements to the look and feel of the UI. For example, <strong>Add</strong> buttons in the device tree have been bundled into one central location for ease of use.
+                    Click <i class="glyph-plus-circled"></i> to open the new <strong>Add</strong> menu.</span>
+                <img src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/17_003.png">
+                <span class="image-caption">New Add Sensor Buttons in the Device Tree</span>
+            </p>
+        </div>
+        <div class="slide">
+            <p class="media-content bordered">
+                <span>
+                        <img src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/17.png">
+                        <span class="image-caption">Editing in Table Lists with Multi-Edit</span>
+                </span>
+                <span class="overlay-text">
+                    The <strong>Edit</strong> function in table lists now always works like the former <strong>Multi-Edit</strong> function. Select the object/s you want to edit and the menu appears to the right.
+                </span>
+            </p>
+        </div>
+        <div class="slide">
+            <p class="media-content bordered">
+                <span>
+                        <img src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/17_002.png">
+                        <span class="image-caption">New Floating Save Button in Forms</span>
+                </span>
+                <span class="overlay-text">
+                    Forms now have a floating <strong>Save</strong> button in the bottom right corner. The button turns blue once you have made changes and you can save at any time.
+                </span>
+            </p>
+        </div>
+        <div class="slide">
+            <p class="media-content bordered">
+                <span>
+                        <img src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/17_005.png">
+                        <span class="image-caption">New Show/Hide Filters Function</span>
+                </span>
+                <span class="overlay-text">
+                    Table lists now have separate filters that you can hide or show.
+                </span>
+            </p>
+        </div>
+        <div class="slide">
+            <p class="media-content bordered">
+                <span>
+                        <img src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/17_004.png">
+                        <span class="image-caption">New Object Selector for Device Tree Object Submenus</span>
+                </span>
+                <span class="overlay-text">
+                 The submenus for device tree objects in the main menu 
+bar have been removed and the respective pages now have a new object 
+selector.
+                </span>
+            </p>
+        </div>
+        <div class="slide">
+            <div class="text-big js-adjustToHeight">
+                <p>
+                    These are just a few of the improvements we have made.<br> For more information, please see the <a class="arrow" target="_blank" href="https://127.0.0.1/help/introduction.htm">manual</a> or our
+                    <a class="arrow" target="_blank" href="https://blog.paessler.com/all">blog</a>.<br> Enjoy!
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+</tct>
+
+    
+    
+    
+
+    <footer class="hidebuttons">
+        <div id="alarmsound"></div>
+        <div id="prtg_growls" class="growls"><div id="growltrial" class="prtg_growl prtg_growl_warning"><div class="prtg_growl_title"><h2>Your trial license will expire in 2 days.</h2><i id="closehelp" class="flr icon-dark ui-button-icon-primary ui-icon ui-icon-closethick"></i></div><div class="prtg_growl_content"><a target="_blank" href="https://www.paessler.com/order?utm_source=prtg&amp;utm_medium=referral&amp;utm_campaign=webgui-trialexpired3">Once
+ the trial has ended, you can continue to use PRTG with 100 sensors for 
+free. If you need more sensors, click here to buy one of our commercial 
+licenses.</a></div></div></div>
+        <div id="helpcontainer" class="footer_help prtg-plugin-initialized hidden" data-plugin="contexthelp" style="">
+            <div class="footer_help-box">
+                <div class="helptitle">
+                    <span class="glyph-help-circled"></span>
+                    Help<i id="closehelp" class="flr glyph-cancel-1"></i>
+                </div>
+                <div class="lasthelpitem contexthelpbox">
+                    <div class="helpmorehelp">
+                        <a href="https://127.0.0.1/help.htm">Get more help in the Help and Support Center!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <a class="footer_logo" href="https://www.paessler.com/" target="_blank" id="paesslerlogo" title="Paessler AG - The Monitoring Experts"></a>
+            <span class="footer_version">21.4.72.1649+  </span>
+
+            <span class="footer_user">PRTG System Administrator</span>
+
+            <span class="servertimebox prtg-plugin-initialized" data-plugin="prtg-clock" title="12/4/2021 7:37:46 AM (LocalTime)" data-placement="top" data-timezone="LocalTime" data-original-title="12/4/2021 7:40:04 AM (LocalTime)">
+                <i class="glyph-clock"></i>
+                <span class="serverclock">7:40</span>
+            </span>   
+            
+            <span id="footerrefresh" class="footer_datetime prtg-plugin-initialized" data-plugin="prtg-toggle-autorefresh">
+                <span class="refreshclock" style="display: inline;"><a class="toggle-autorefresh" href="#"><i class="icon-pause icon-dark"></i></a></span>
+                <span class="refreshclock" style="display: inline;">Refresh in</span>
+                <span class="refreshclock" id="footerrefreshclock" style="display: inline;">8</span>
+                <span class="refreshclock" style="display: inline;">sec</span>
+                <span class="refreshinglable" style="display: none;">Refreshing...</span>
+            </span>
+
+        </div>
+
+        <div id="sendfeedbackbox" class="footerButtons">
+
+            
+            <a id="updatevailablebox" class="footerButtons-update" onclick="window.top.location.href = '/autoupdate.htm';return false;" style="  display:none">
+                <i class="icon-gear icon-dark"></i> Update Available
+            </a>
+
+            <a href="#" class="js-livechat_button" onclick="showLiveChat()"> <i class="glyph-bubbles3"></i>Live Chat</a>
+            
+            
+            
+            
+            
+            <a id="sendfeedback" style="" onclick="_Prtg.objectTools.sendFeedback('/sendfeedback.htm?errorurl='+window.location.pathname,'');return false;">
+     <i class="icon-mail-closed icon-dark"></i>Contact Support
+</a>
+            <a id="togglehelp">
+                <i class="icon-help icon-dark"></i>
+                    Help
+                <span class="helpactive" style="display: inline-block;"></span>
+            </a>
+        </div>
+    </footer>
+
+
+<noscript>
+  <div class="ui-widget-overlay ui-front"></div>
+  <div id="nojavascripterror">
+    <b>Sorry, the PRTG web interface cannot work properly without JavaScript.</b><br><br><i>JavaScript is either disabled or this browser does not support JavaScript.</i><br><br>Please enable JavaScript.
+  </div>
+</noscript>
+    
+    
+    
+
+        <script>
+  (function(window, document, undefined){
+    var LastClicked;
+    $(document).on('click.catch', '*', function(event) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      LastClicked = $(this);
+      return false;
+    });
+    document.addEventListener("DOMContentLoaded", function(event) {
+      if(LastClicked !== undefined) {
+       LastClicked.trigger('click');
+      }
+      $(document).off('click.catch', '*');
+      LastClicked = undefined;
+    });
+  })(window, document);
+</script>
+
+
+<!--
+//        You can use this file to modify the appearance of the PRTG web interface
+//        as described in https://kb.paessler.com/en/topic/33
+//        
+//        Please note that you are using an unsupported and deprecated feature. 
+//        Your changes will be broken or removed with future PRTG updates.
+//        
+//        If you modify this file, PLEASE LET US KNOW what you're changing and why!
+//        Just drop an email to support@paessler.com and help us understand your 
+//        needs. Thank you!       
+-->
+
+<script src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/prtg.js"></script><div id="PRTGContextMenu" class="jqContextMenu" style="position: absolute; display: none;"></div>
+
+<!-- first line left intentionally blank -->
+<!-- begin usabilla live embed code -->
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/7f990516353a.js"); /*]]>{/literal}*/</script>
+<script type="text/javascript">
+window.usabilla_live("data", {"custom": {
+    "trialdaysleft": 2
+}});
+</script>
+<!-- end usabilla live embed code -->
+
+
+<script src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/app.js" type="text/javascript"></script><div id="jstree-marker" style="display: none;">»</div><div id="jstree-marker-line" style="display: none;"></div><div id="vakata-contextmenu"></div><div id="ptip" style="opacity: 1; display: none; top: 225px; left: 137px;" class="sensorid1001 sensr sensormenu isnotpaused  isnotfavorite fixed"><div class="body"><div class="ptip-toolbar"><a class="tab newtree" href="https://127.0.0.1/sensor.htm?id=1001" style="background-image: none;">System Health</a><div class="buttonbox"><a href="https://127.0.0.1/sensordetail" class="sensordetail" title="Details…"><i class="icon-dark glyph-search2"></i></a><a href="https://127.0.0.1/sensoredit" class="sensoredit" title="Settings…"><i class="icon-dark glyph-wrench2"></i></a><a href="https://127.0.0.1/sensornotifications" class="sensornotifications" title="Notification Triggers…"><i class="icon-dark glyph-bell-alt"></i></a><a href="https://127.0.0.1/sensorrename" class="sensorrename" title="Rename…"><i class="icon-dark glyph-doc"></i></a><a href="https://127.0.0.1/pausenowcomment" class="pausenowcomment" title="Pause Indefinitely…"><i class="icon-dark glyph-pause3"></i></a><a href="https://127.0.0.1/resumenow" class="resumenow" title="Resume"><i class="icon-dark glyph-play-1"></i></a><a href="https://127.0.0.1/check" class="check" title="Scan Now"><i class="icon-dark glyph-arrows-cw"></i></a><a href="https://127.0.0.1/addfavorite" class="addfavorite" title="Add to Favorites"><i class="icon-dark glyph-flag2"></i></a><a href="https://127.0.0.1/removefavorite" class="removefavorite" title="Remove from Favorites"><i class="icon-dark glyph-flag-empty"></i></a></div></div><div class="content"><div class="ptip-loaded-content sensor-context" loadurl="/controls/sensortooltip.htm?id=1001"><div class="probegroupdevice"><span class="probegroupdeviceitem parentItem"><a dependency="0" thisid="1" class="probemenu isnotpaused  isnotfavorite fixed localprobe" id="1" href="https://127.0.0.1/probenode.htm?id=1">Local Probe (Local Probe) </a>&nbsp;»&nbsp;</span> <span class="probegroupdeviceitem "><a dependency="1" thisid="40" class="devicemenu isnotpaused  isnotfavorite fixed localprobe" style="background-image:url(/icons/devices/A_Server_1.png?svg)" id="40" href="https://127.0.0.1/device.htm?id=40">Probe Device </a></span> </div>
+<div class="sensorstatusmessage sensorstatusmessagesensr">
+	Last Message:<br>
+	<strong><div class="status">95 % (System CPU Load) is above the error 
+limit of 90 % in System CPU Load. When CPU load on the probe system is 
+very high, measurements may be incorrect<div class="moreicon"></div></div></strong>
+</div>
+
+<div class="overviewsmalldata">
+
+	<div class="overview-block" style="">
+		<span class="overview-title">Last Scan:</span>
+		<span class="overview-data"><span title="12/4/2021 7:38:28 AM">64 s</span></span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Last Up:</span>
+		<span class="overview-data"><span title="12/4/2021 7:37:28 AM">124 s</span></span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Last Down:</span>
+		<span class="overview-data"><span title="12/4/2021 7:38:28 AM">64 s</span></span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Uptime:</span>
+		<span class="overview-data" title="9 d 15 h">98.0783%</span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Downtime:</span>
+		<span class="overview-data" title="4 h 32 m">1.9217%</span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Coverage:</span>
+		<span class="overview-data" title="0 s&gt; of&lt;br&gt; 27 d&lt;br&gt; since 11/6/2021 11:36:54 PM">36%</span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Sensor Type:</span>
+		<span class="overview-data" title="System Health sensor (&lt;b&gt;#1001&lt;/span&gt;)">System Health sensor</span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Performance Impact:</span>
+		<span class="overview-data"><span class="addsensor_resourcebar1 addsensor_resourcebar" title="Very low impact on system performance. Try to stay below 5000 sensors of this performance category per probe."></span></span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Dependency:</span>
+		<span class="overview-data">Parent</span>
+	</div>
+	<div class="overview-block">
+		<span class="overview-title">Interval:</span>
+		<span class="overview-data"><span status="interval">60 seconds<br></span>
+	</span></div>
+	<div class="overview-block">
+		<span class="overview-title">ID:</span>
+		<span class="overview-data">#1001</span>
+	</div>
+</div>
+
+<div id="overviewgraphs" class="overview-graphs">
+	<a href="https://127.0.0.1/sensor.htm?id=1001&amp;tabid=2">
+						<div class="graphbox">
+						<div class="PNGGraph livegraph refreshable-initialized clock-keeper-ptip" data-graphid="0" data-refresh-interval="0" data-last-refresh="0" data-chart-type="120" data-sensor-interval="60" refreshurl="/controls/graph.htm?type=graph&amp;graphid=0&amp;graphtitle=%40%40notitle%40%40&amp;charttext=%40%40period%40%40&amp;width=445&amp;maxwidth=445&amp;height=130&amp;refreshable=true&amp;_hjax=true&amp;id=1001&amp;myid=02372655" id="PNGGraph02372655" style="width:445px;height:130px;"><img class="prtgchart" data-graphid="0" src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/chart_002.svg" width="100%"></div>
+						</div>
+					</a><table>
+		<tbody>
+			<tr>
+				<td>
+					<a href="https://127.0.0.1/sensor.htm?id=1001&amp;tabid=3">
+						<div class="graphbox">
+						<div class="PNGGraph refreshable-initialized clock-keeper-ptip" data-graphid="1" data-refresh-interval="180" data-last-refresh="0" data-chart-type="2d|5m" data-sensor-interval="60" refreshurl="/controls/graph.htm?type=graph&amp;graphid=1&amp;graphtitle=%40%40notitle%40%40&amp;charttext=%40%40period%40%40&amp;width=445&amp;maxwidth=445&amp;height=130&amp;refreshable=true&amp;_hjax=true&amp;id=1001&amp;myid=12372655" id="PNGGraph12372655" style="width:445px;height:130px;"><img class="prtgchart" data-graphid="1" src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/chart_003.svg" width="100%"></div>
+					</div>
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://127.0.0.1/sensor.htm?id=1001&amp;tabid=4">
+						<div class="graphbox">
+						<div class="PNGGraph refreshable-initialized clock-keeper-ptip" data-graphid="2" data-refresh-interval="600" data-last-refresh="0" data-chart-type="30d|1h" data-sensor-interval="60" refreshurl="/controls/graph.htm?type=graph&amp;graphid=2&amp;graphtitle=%40%40notitle%40%40&amp;charttext=%40%40period%40%40&amp;width=445&amp;maxwidth=445&amp;height=130&amp;refreshable=true&amp;_hjax=true&amp;id=1001&amp;myid=22372655" id="PNGGraph22372655" style="width:445px;height:130px;"><img class="prtgchart" data-graphid="2" src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/chart_004.svg" width="100%"></div>
+						</div>
+					</a>
+				</td>
+			</tr>
+			<tr>
+					
+				
+			</tr>
+			<tr>
+				<td>
+					<a href="https://127.0.0.1/sensor.htm?id=1001&amp;tabid=5">
+						<div class="graphbox">
+						<div class="PNGGraph refreshable-initialized clock-keeper-ptip" data-graphid="3" data-refresh-interval="1200" data-last-refresh="0" data-chart-type="365d|1d" data-sensor-interval="60" refreshurl="/controls/graph.htm?type=graph&amp;graphid=3&amp;graphtitle=%40%40notitle%40%40&amp;charttext=%40%40period%40%40&amp;width=445&amp;maxwidth=445&amp;height=130&amp;refreshable=true&amp;_hjax=true&amp;id=1001&amp;myid=32372659" id="PNGGraph32372659" style="width:445px;height:130px;"><img class="prtgchart" data-graphid="3" src="HTTP%20Sensor%20Details%20PRTG%20Network%20Monitor%20(DESKTOP-H9EJ7RL)_files/chart.svg" width="100%"></div>
+						</div>
+					</a>
+				</td>
+			</tr>
+			<tr>
+				<td class="overviewpage"><div class="chartlegend" style="width:445px" data-graphid="0"><div class="oneitem" data-channelid="-4" title="Downtime  (%)"><div class="chartlegendcolorbox" style="color:#E30613;background-color:#E30613">■</div><span class="percent"> (%)</span><span class="legendcaption">Downtime</span></div><div class="oneitem" data-channelid="0" title="Health  (%)"><div class="chartlegendcolorbox" style="color:#0B2558;background-color:#0B2558">■</div><span class="percent"> (%)</span><span class="legendcaption">Health</span></div><div class="oneitem" data-channelid="1" title="System CPU Load  (%)"><div class="chartlegendcolorbox" style="color:#399D98;background-color:#399D98">■</div><span class="percent"> (%)</span><span class="legendcaption">System CPU Load</span></div><div class="oneitem" data-channelid="3" title="Available Memory  (MB)"><div class="chartlegendcolorbox" style="color:#EA5799;background-color:#EA5799">■</div><span class="percent"> (MB)</span><span class="legendcaption">Available Memory</span></div></div></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+<div style="display:none;">
+	
+	
+</div>
+<div class="prtg-plugin-initialized" data-plugin="prtg-table">
+	
+	<div class="table-wrapper" refreshurl="/controls/table.htm?tableid=channeltable&amp;tabletitle=Channels&amp;varexpand=tabletitle&amp;content=channels&amp;columns=name%2Clastvalue_&amp;sortby=name&amp;sortable=true&amp;links=true&amp;refreshable=true&amp;_hjax=true&amp;id=1001&amp;"><form id="form_channeltable" class="form-channels " callerid="form_channeltable">
+
+<div class="tabletitle">Channels</div><table class=" table hoverable channels" id="table_channeltable" cellspacing="0">
+<thead class="headerswithlinks"><tr><th class="col-name"><a href="#" class="reloadtablelink " data-reload="[{&quot;name&quot;:&quot;sortby&quot;,&quot;value&quot;:&quot;-name&quot;}]">Channel&nbsp;<i class="glyph-sort-down"></i></a></th><th class="col-lastvalue"><a href="#" class="reloadtablelink " data-reload="[{&quot;name&quot;:&quot;sortby&quot;,&quot;value&quot;:&quot;lastvalue&quot;}]">Last Value&nbsp;<i class="glyph-sort"></i></a></th></tr></thead>
+<tbody><tr class="odd"><td class="col-name" data-th="Channel">Available Memory</td><td class="col-lastvalue" data-th="Last Value">484 MB</td></tr>
+<tr class="even"><td class="col-name" data-th="Channel">Available Memory Percent</td><td class="col-lastvalue" data-th="Last Value">12 %</td></tr>
+<tr class="odd"><td class="col-name" data-th="Channel">Downtime</td><td class="col-lastvalue" data-th="Last Value"></td></tr>
+<tr class="even"><td class="col-name" data-th="Channel">Health</td><td class="col-lastvalue" data-th="Last Value">60 %</td></tr>
+<tr class="odd"><td class="col-name" data-th="Channel">System CPU Load</td><td class="col-lastvalue" data-th="Last Value">50 %</td></tr>
+</tbody></table></form></div>
+
+</div></div></div></div></div><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all" style="position: absolute; top: 384px; left: 611.8px; z-index: 1; display: none;"><div class="ui-datepicker-header ui-widget-header ui-helper-clearfix ui-corner-all"><a class="ui-datepicker-prev ui-corner-all" data-handler="prev" data-event="click" title="" data-original-title="Prev"><span class="ui-icon ui-icon-circle-triangle-w">Prev</span></a><a class="ui-datepicker-next ui-corner-all" data-handler="next" data-event="click" title="Next"><span class="ui-icon ui-icon-circle-triangle-e">Next</span></a><div class="ui-datepicker-title"><span class="ui-datepicker-month">November</span>&nbsp;<span class="ui-datepicker-year">2021</span></div></div><table class="ui-datepicker-calendar"><thead><tr><th><span title="" data-original-title="Monday">Mo</span></th><th><span title="Tuesday">Tu</span></th><th><span title="Wednesday">We</span></th><th><span title="Thursday">Th</span></th><th><span title="Friday">Fr</span></th><th class="ui-datepicker-week-end"><span title="Saturday">Sa</span></th><th class="ui-datepicker-week-end"><span title="Sunday">Su</span></th></tr></thead><tbody><tr><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">1</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">2</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">3</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">4</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">5</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">6</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">7</a></td></tr><tr><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">8</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">9</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">10</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">11</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">12</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">13</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">14</a></td></tr><tr><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">15</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">16</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">17</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">18</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">19</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">20</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">21</a></td></tr><tr><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">22</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">23</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">24</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">25</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">26</a></td><td class=" ui-datepicker-week-end  ui-datepicker-current-day" data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default ui-state-active" href="#">27</a></td><td class=" ui-datepicker-week-end " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">28</a></td></tr><tr><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">29</a></td><td class=" " data-handler="selectDay" data-event="click" data-month="10" data-year="2021"><a class="ui-state-default" href="#">30</a></td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td><td class=" ui-datepicker-week-end ui-datepicker-other-month ui-datepicker-unselectable ui-state-disabled">&nbsp;</td></tr></tbody></table></div></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration></html>
